@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MaterialDrawer">
+        <attr name="material_drawer_window_background" format="color|reference" />
+        <attr name="material_drawer_background" format="color|reference" />
+
+        <attr name="material_drawer_primary_text" format="color|reference" />
+        <attr name="material_drawer_primary_icon" format="color|reference" />
+        <attr name="material_drawer_secondary_text" format="color|reference" />
+        <attr name="material_drawer_hint_text" format="color|reference" />
+        <attr name="material_drawer_hint_icon" format="color|reference" />
+        <attr name="material_drawer_divider" format="color|reference" />
+
+        <attr name="material_drawer_selected" format="color|reference" />
+        <attr name="material_drawer_selected_text" format="color|reference" />
+        <!-- material drawer header attrs-->
+        <attr name="material_drawer_header_selection_text" format="color|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="BezelImageView">
+        <attr name="biv_maskDrawable" format="reference" />
+        <attr name="biv_drawCircularShadow" format="boolean" />
+        <attr name="biv_selectorOnPress" format="color|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SlideDetailsLayout">
+        <!-- float value for indicate the moment of switch panel-->
+        <attr name="percent" format="float"/>
+        <!-- how long the animation keep-->
+        <attr name="duration" format="integer"/>
+        <!-- default panel to show after init-->
+        <attr name="default_panel" format="enum">
+            <enum name="front" value="0"/>
+            <enum name="behind" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>

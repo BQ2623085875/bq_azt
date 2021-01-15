@@ -1,0 +1,7 @@
+#Fri Sep 18 17:51:23 CST 2020
+base.0=D\:\\CompanyProject\\Connect\\azt\\versions\\zuixin\\AZT\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\CompanyProject\\Connect\\azt\\versions\\zuixin\\AZT\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes2.dex
+base.1=D\:\\CompanyProject\\Connect\\azt\\versions\\zuixin\\AZT\\app\\build\\intermediates\\transforms\\dex\\release\\0
+file.0=D\:\\CompanyProject\\Connect\\azt\\versions\\zuixin\\AZT\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex

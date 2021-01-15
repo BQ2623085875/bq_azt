@@ -1,0 +1,129 @@
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\jcore-android-1.2.1.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\jpush-android-3.1.3.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\tbs_sdk_thirdapp_v3.2.0.1104_43200_sharewithdownload_withfilereader_withoutGame_obfs_20170609_115346.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\umeng-analytics-8.0.0.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\BaiduLBS_Android.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\libammsdk.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\pinyin4j-2.5.0.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\SecurityEnvSDK-release-1.1.0.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\umeng-common-2.0.1.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\umeng-share-core-6.9.4.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\umeng-share-QQ-simplify-6.9.4.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\umeng-share-sina-simplify-6.9.4.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\umeng-share-wechat-simplify-6.9.4.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\umeng-shareboard-widget-6.9.4.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\umeng-sharetool-6.9.4.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\UPPayAssistEx.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\libs\UPPayPluginExPro.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\d9458b27a4a762b915effbeaf5aa3e41\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.6.aar\06b0819274d7858f67de6674c1ceb19b\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\JDAddressSelector-1.1.4.aar\a21976f4673e3fe52f3778cbdd790ef0\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\marqueeview-1.1.0.aar\77add40e20b6182599fba962c3381686\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\e56e6b4f8e1434cea555377fe892e161\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\CustomPopwindow-2.1.1.aar\0b303f7ad3535d33ae4c193ba2031ff6\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loadinglayout-1.2.aar\c80f83412191cc8a925ea243805b523f\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\flexbox-0.2.3.aar\98d3e63f14fff08dbaafa3ae1972c819\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\3fe16a799218775150c20642c9760de1\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\6c305b1d11e85766ebd4649f59d31f93\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\9abaf7067e3b6ddffbe50f766b8b1d17\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\34f497a401e8be976862861ad9d84916\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\9c9b19b1f32abc3d6e8ed81d0ae66c26\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\86e409377f4f12618d8d9c3a1191c42b\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\313569048f385680845e85f89fc42f10\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\bga-refreshlayout-1.1.6.aar\3aefe675ce05427f6747b5ffe42ecb93\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.0-beta1\54d65d51b5ebec588a19b2384efb6395b5bf5b18\MPAndroidChart-v3.0.0-beta1.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5\a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438\httpclient-4.5.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.1\cabf146d220dcd70a2972166cd1bfae200b97eff\adapter-rxjava-2.0.1.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxbinding-0.4.0.aar\a03d3731817827703a584ebb43321440\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\4550866b4e48a1982051f4a36477c5da\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.2\5b083e2a33225bc1c7b11678b7608e2bead4e417\rxjava-1.2.2.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.0.aar\c3e464feded683a7103d618ab3abd3db\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.0.2.aar\a62c987b0ab57c34d54fd4624476437f\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loopView-0.1.2.aar\1e620a09d2d636e39c8e0321390aea2f\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\10ed8e24ccedec84df4c6ba30a39edc3\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\2ab79277b9eccd88bcf0a87ee05a6336\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\Android-AdvancedWebView-v3.0.0.aar\3c16aa433c879cf323fb633534c02453\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\85aa4dfc27fbbdcdb5975854de6a2641\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.4.1.aar\82f68a3043efa490a8c6561602db188b\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\wechat-sdk-android-without-mta-6.6.5.2.aar\9e729f23a26e63997c84b0dd17779234\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\BaseDialog-1.2.0.aar\4f09bc2e7e965b2122877f53077ea792\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.0.aar\f0cdf18674bc6437f0f47e47afb49111\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\3d45c8e2fc357d58e67e17ad95bbabf2\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\d404d79f1af2963e4165df445fac9a5e\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\5a9ef7acf5a32e0f2e3859c9384dded4\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\da855676eec3efc36c8e6c7d6cde6987\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\9541e9d4191b309f86a85da8b22b848c\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.1.aar\8eb6e345ea37bb30586115bb086ba4f4\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\59b849709e356cccd640899133733dd6\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\c63a52b1c65cdc7df69b09da799696a8\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\dbflow-3.0.0-beta6.aar\85cfe22f2db42c0d692dea715bd1eda8\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar'(**.class)
+-injars 'C:\Users\dell\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.9\9ce04e34240f674bc72680f8b843b1457383161a\commons-codec-1.9.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\AndroidUtils-1.0.10.aar\fc39d0ae3a00037bfeb472bfa523e58a\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.github.Raizlabs.DBFlow\dbflow-core\3.0.0-beta6\3d1671d848a10db82161501ea57beeee60b6efac\dbflow-core-3.0.0-beta6.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialize-0.9.0.aar\08976c171ff5ccf797223e4af78ee9c8\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\iconics-core-2.7.2.aar\19c6590f9d0e0364ef4d90780ed89a4f\jars\classes.jar'(**.class)
+-injars 'C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fastadapter-1.6.1.aar\1dd24dd4d683e3716182a5522db31e65\jars\classes.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\library\build\intermediates\intermediate-jars\debug\classes.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\intermediate-jars\debug\classes.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\autolayout\build\intermediates\intermediate-jars\debug\classes.jar'(**.class)
+-injars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\build\intermediates\classes\debug'(**.class)
+-outjars 'D:\C\CompanyCode\Connect\azt\code\AZT\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\dell\AppData\Local\Android\Sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'D:\C\CompanyCode\Connect\azt\code\AZT\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at D:\C\CompanyCode\Connect\azt\code\AZT\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:116
+-keep class com.azhyun.massxj.MyApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

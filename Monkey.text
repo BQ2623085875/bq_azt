@@ -1,0 +1,486 @@
+:Monkey: seed=1551066542409 count=10000
+:AllowPackage: com.azhyun.mass
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(321.0,1225.0)
+:Sending Touch (ACTION_UP): 0:(318.25513,1238.4524)
+:Sending Touch (ACTION_DOWN): 0:(417.0,142.0)
+:Sending Touch (ACTION_UP): 0:(418.17517,165.63402)
+:Sending Touch (ACTION_DOWN): 0:(642.0,538.0)
+:Sending Touch (ACTION_UP): 0:(651.93384,532.35693)
+:Sending Touch (ACTION_DOWN): 0:(27.0,1116.0)
+:Sending Touch (ACTION_UP): 0:(25.46114,1104.4087)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    // activityResuming(com.azhyun.mass)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=cn.nubia.launcher/com.android.launcher2.Launcher } in package cn.nubia.launcher
+:Sending Touch (ACTION_DOWN): 0:(29.0,822.0)
+:Sending Touch (ACTION_UP): 0:(28.111116,807.14056)
+:Sending Touch (ACTION_DOWN): 0:(388.0,62.0)
+:Sending Touch (ACTION_UP): 0:(422.3881,49.618073)
+:Sending Touch (ACTION_DOWN): 0:(163.0,745.0)
+:Sending Touch (ACTION_UP): 0:(170.36865,758.877)
+:Sending Touch (ACTION_DOWN): 0:(440.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(435.1535,1124.0692)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2019-02-12 18:02:00.433  system_uptime:12878934]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(669.0,563.0)
+:Sending Touch (ACTION_UP): 0:(662.1484,578.5697)
+:Sending Touch (ACTION_DOWN): 0:(661.0,366.0)
+:Sending Touch (ACTION_UP): 0:(661.15356,366.12772)
+:Sending Touch (ACTION_DOWN): 0:(566.0,1165.0)
+:Sending Touch (ACTION_UP): 0:(545.64795,1217.73)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(522.0,674.0)
+:Sending Touch (ACTION_UP): 0:(513.24274,648.53)
+:Sending Touch (ACTION_DOWN): 0:(696.0,708.0)
+:Sending Touch (ACTION_UP): 0:(622.3764,779.6634)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2019-02-12 18:02:01.020  system_uptime:12879466]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(291.0,46.0)
+:Sending Touch (ACTION_UP): 0:(291.51425,31.237226)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(688.0,909.0)
+:Sending Touch (ACTION_UP): 0:(681.15295,917.79095)
+:Sending Touch (ACTION_DOWN): 0:(686.0,1157.0)
+:Sending Touch (ACTION_UP): 0:(686.3768,1154.5847)
+:Sending Touch (ACTION_DOWN): 0:(177.0,1083.0)
+:Sending Touch (ACTION_UP): 0:(189.08131,1082.1366)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(566.0,358.0)
+:Sending Touch (ACTION_UP): 0:(617.1241,272.79822)
+:Sending Touch (ACTION_DOWN): 0:(690.0,300.0)
+:Sending Touch (ACTION_UP): 0:(686.7889,311.46695)
+:Sending Touch (ACTION_DOWN): 0:(642.0,811.0)
+:Sending Touch (ACTION_UP): 0:(672.09485,789.961)
+:Sending Touch (ACTION_DOWN): 0:(92.0,950.0)
+:Sending Touch (ACTION_UP): 0:(88.62319,946.05634)
+:Sending Touch (ACTION_DOWN): 0:(232.0,959.0)
+:Sending Touch (ACTION_UP): 0:(226.3252,958.9297)
+    //[calendar_time:2019-02-12 18:02:01.667  system_uptime:12880113]
+    // Sending event #300
+    //[calendar_time:2019-02-12 18:02:01.668  system_uptime:12880114]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(63.0,363.0)
+:Sending Touch (ACTION_UP): 0:(78.51404,261.14227)
+:Sending Touch (ACTION_DOWN): 0:(385.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(456.1081,1241.9473)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(618.0,127.0)
+:Sending Touch (ACTION_UP): 0:(638.9347,137.9328)
+:Sending Touch (ACTION_DOWN): 0:(333.0,604.0)
+:Sending Touch (ACTION_UP): 0:(321.0055,589.8074)
+:Sending Touch (ACTION_DOWN): 0:(144.0,328.0)
+:Sending Touch (ACTION_UP): 0:(143.64154,318.46036)
+:Sending Touch (ACTION_DOWN): 0:(107.0,1029.0)
+:Sending Touch (ACTION_UP): 0:(128.12224,1033.118)
+    //[calendar_time:2019-02-12 18:02:01.807  system_uptime:12880253]
+    // Sending event #400
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(520.0,948.0)
+:Sending Touch (ACTION_UP): 0:(471.36194,863.2196)
+:Sending Touch (ACTION_DOWN): 0:(627.0,624.0)
+:Sending Touch (ACTION_UP): 0:(623.0596,620.6126)
+:Sending Touch (ACTION_DOWN): 0:(271.0,960.0)
+:Sending Touch (ACTION_UP): 0:(306.81274,988.38293)
+:Sending Touch (ACTION_DOWN): 0:(393.0,799.0)
+:Sending Touch (ACTION_UP): 0:(393.79752,805.3167)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(494.0,486.0)
+:Sending Touch (ACTION_UP): 0:(502.20398,488.53094)
+:Sending Touch (ACTION_DOWN): 0:(660.0,906.0)
+:Sending Touch (ACTION_UP): 0:(659.65295,899.0033)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(406.0,973.0)
+:Sending Touch (ACTION_UP): 0:(415.5016,971.26276)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(112.0,748.0)
+:Sending Touch (ACTION_UP): 0:(29.227465,821.88824)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=cn.nubia.calculator2.preset/cn.nubia.calculator2.Calculator } in package cn.nubia.calculator2.preset
+:Sending Touch (ACTION_DOWN): 0:(644.0,946.0)
+    //[calendar_time:2019-02-12 18:02:02.010  system_uptime:12880456]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(641.80884,934.06964)
+:Sending Touch (ACTION_DOWN): 0:(36.0,473.0)
+:Sending Touch (ACTION_UP): 0:(0.0,373.467)
+:Sending Touch (ACTION_DOWN): 0:(32.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(52.120125,1134.0891)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    // Allowing start of Intent { cmp=com.azhyun.mass/.activity.UserLogingActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(602.0,213.0)
+:Sending Touch (ACTION_UP): 0:(601.1298,205.76286)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(660.0,756.0)
+:Sending Touch (ACTION_UP): 0:(638.12714,762.0845)
+:Sending Touch (ACTION_DOWN): 0:(709.0,1097.0)
+:Sending Touch (ACTION_UP): 0:(694.984,1100.9208)
+:Sending Touch (ACTION_DOWN): 0:(284.0,828.0)
+:Sending Touch (ACTION_UP): 0:(281.23978,832.83575)
+:Sending Touch (ACTION_DOWN): 0:(314.0,112.0)
+:Sending Touch (ACTION_UP): 0:(310.57224,114.20902)
+:Sending Touch (ACTION_DOWN): 0:(301.0,721.0)
+    //[calendar_time:2019-02-12 18:02:03.290  system_uptime:12881736]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(166.07594,748.55554)
+:Sending Touch (ACTION_DOWN): 0:(75.0,480.0)
+:Sending Touch (ACTION_UP): 0:(192.93457,457.6705)
+:Sending Touch (ACTION_DOWN): 0:(324.0,223.0)
+:Sending Touch (ACTION_UP): 0:(324.29227,220.36037)
+:Sending Touch (ACTION_DOWN): 0:(365.0,393.0)
+:Sending Touch (ACTION_UP): 0:(372.48154,393.51563)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(366.0,681.0)
+:Sending Touch (ACTION_UP): 0:(368.8511,682.00824)
+:Sending Touch (ACTION_DOWN): 0:(542.0,950.0)
+:Sending Touch (ACTION_UP): 0:(541.26685,947.1965)
+:Sending Touch (ACTION_DOWN): 0:(272.0,1061.0)
+:Sending Touch (ACTION_UP): 0:(214.54059,1075.3324)
+:Sending Touch (ACTION_DOWN): 0:(196.0,927.0)
+:Sending Touch (ACTION_UP): 0:(195.6962,929.34314)
+:Sending Touch (ACTION_DOWN): 0:(370.0,1199.0)
+:Sending Touch (ACTION_UP): 0:(307.67813,1251.9633)
+:Sending Touch (ACTION_DOWN): 0:(316.0,184.0)
+:Sending Touch (ACTION_UP): 0:(285.99823,189.2409)
+:Sending Touch (ACTION_DOWN): 0:(194.0,357.0)
+:Sending Touch (ACTION_UP): 0:(133.34943,375.63028)
+:Sending Touch (ACTION_DOWN): 0:(142.0,804.0)
+:Sending Touch (ACTION_UP): 0:(144.08495,805.15497)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    //[calendar_time:2019-02-12 18:02:04.209  system_uptime:12882655]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(481.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(483.28845,1136.8099)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(169.0,838.0)
+:Sending Touch (ACTION_UP): 0:(169.1391,834.45123)
+:Sending Touch (ACTION_DOWN): 0:(409.0,392.0)
+:Sending Touch (ACTION_UP): 0:(487.48007,365.38617)
+:Sending Touch (ACTION_DOWN): 0:(184.0,469.0)
+:Sending Touch (ACTION_UP): 0:(130.51724,438.1499)
+:Sending Touch (ACTION_DOWN): 0:(671.0,26.0)
+:Sending Touch (ACTION_UP): 0:(657.97894,32.226337)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(76.0,1270.0)
+:Sending Touch (ACTION_UP): 0:(70.75702,1270.1106)
+:Sending Touch (ACTION_DOWN): 0:(520.0,443.0)
+:Sending Touch (ACTION_UP): 0:(465.5654,440.7623)
+    // Allowing start of Intent { cmp=com.azhyun.mass/.activity.UserLogingActivity } in package com.azhyun.mass
+    // activityResuming(com.azhyun.mass)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(177.0,1200.0)
+:Sending Touch (ACTION_UP): 0:(179.38605,1191.037)
+:Sending Touch (ACTION_DOWN): 0:(257.0,432.0)
+:Sending Touch (ACTION_UP): 0:(272.97113,425.70508)
+    // Rejecting start of Intent { act=com.android.systemui.nubiarecent.action.TOGGLE_RECENTS cmp=com.android.systemui/.NubiaRecent.NubiaRecentsActivity } in package com.android.systemui
+    //[calendar_time:2019-02-12 18:02:05.258  system_uptime:12883704]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(383.0,497.0)
+:Sending Touch (ACTION_UP): 0:(387.0448,493.4242)
+:Sending Touch (ACTION_DOWN): 0:(598.0,22.0)
+:Sending Touch (ACTION_UP): 0:(589.2534,26.799501)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(466.0,304.0)
+:Sending Touch (ACTION_UP): 0:(467.34793,400.76065)
+:Sending Touch (ACTION_DOWN): 0:(282.0,216.0)
+:Sending Touch (ACTION_UP): 0:(294.57346,210.65845)
+:Sending Touch (ACTION_DOWN): 0:(188.0,1070.0)
+:Sending Touch (ACTION_UP): 0:(233.21602,1026.4512)
+:Sending Touch (ACTION_DOWN): 0:(45.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(45.876568,1095.2223)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    //[calendar_time:2019-02-12 18:02:05.872  system_uptime:12884318]
+    // Sending event #900
+    //[calendar_time:2019-02-12 18:02:05.872  system_uptime:12884318]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(397.0,217.0)
+:Sending Touch (ACTION_UP): 0:(408.67142,213.03632)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(457.0,1196.0)
+:Sending Touch (ACTION_UP): 0:(457.53406,1196.3804)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(242.0,396.0)
+:Sending Touch (ACTION_UP): 0:(170.90573,433.03253)
+    //[calendar_time:2019-02-12 18:02:06.038  system_uptime:12884484]
+    // Sending event #1000
+:Sending Touch (ACTION_DOWN): 0:(637.0,1236.0)
+:Sending Touch (ACTION_UP): 0:(624.3322,1249.4836)
+:Sending Touch (ACTION_DOWN): 0:(515.0,683.0)
+:Sending Touch (ACTION_UP): 0:(494.51797,636.728)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(387.0,726.0)
+:Sending Touch (ACTION_UP): 0:(438.02408,706.9458)
+:Sending Touch (ACTION_DOWN): 0:(449.0,251.0)
+:Sending Touch (ACTION_UP): 0:(429.71606,271.43283)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(378.0,360.0)
+:Sending Touch (ACTION_UP): 0:(367.98148,359.29575)
+:Sending Touch (ACTION_DOWN): 0:(350.0,96.0)
+:Sending Touch (ACTION_UP): 0:(356.28424,94.291504)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(320.0,999.0)
+:Sending Touch (ACTION_UP): 0:(329.31952,999.1207)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(563.0,251.0)
+:Sending Touch (ACTION_UP): 0:(555.2424,246.16483)
+:Sending Touch (ACTION_DOWN): 0:(3.0,171.0)
+    //[calendar_time:2019-02-12 18:02:06.744  system_uptime:12885190]
+    // Sending event #1100
+:Sending Touch (ACTION_UP): 0:(0.0,181.27528)
+:Sending Touch (ACTION_DOWN): 0:(437.0,134.0)
+:Sending Touch (ACTION_UP): 0:(434.25296,132.93738)
+:Sending Touch (ACTION_DOWN): 0:(700.0,84.0)
+:Sending Touch (ACTION_UP): 0:(720.0,76.32419)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(278.0,585.0)
+:Sending Touch (ACTION_UP): 0:(264.09406,561.80286)
+:Sending Touch (ACTION_DOWN): 0:(467.0,908.0)
+:Sending Touch (ACTION_UP): 0:(474.20026,979.1238)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(24.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(28.289555,1088.1738)
+:Sending Touch (ACTION_DOWN): 0:(68.0,40.0)
+    //[calendar_time:2019-02-12 18:02:06.997  system_uptime:12885443]
+    // Sending event #1200
+:Sending Touch (ACTION_UP): 0:(56.968643,7.683142)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(478.0,558.0)
+:Sending Touch (ACTION_UP): 0:(519.6402,488.85126)
+:Sending Touch (ACTION_DOWN): 0:(698.0,211.0)
+:Sending Touch (ACTION_UP): 0:(699.6131,200.60559)
+:Sending Touch (ACTION_DOWN): 0:(252.0,122.0)
+:Sending Touch (ACTION_UP): 0:(242.95546,128.80664)
+:Sending Touch (ACTION_DOWN): 0:(437.0,327.0)
+:Sending Touch (ACTION_UP): 0:(447.62814,320.0101)
+:Sending Touch (ACTION_DOWN): 0:(577.0,509.0)
+:Sending Touch (ACTION_UP): 0:(557.53235,525.5681)
+:Sending Touch (ACTION_DOWN): 0:(53.0,337.0)
+:Sending Touch (ACTION_UP): 0:(50.62303,350.5841)
+:Sending Touch (ACTION_DOWN): 0:(557.0,359.0)
+:Sending Touch (ACTION_UP): 0:(557.0951,353.06418)
+:Sending Touch (ACTION_DOWN): 0:(469.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(584.21387,1262.06)
+:Sending Touch (ACTION_DOWN): 0:(53.0,470.0)
+:Sending Touch (ACTION_UP): 0:(54.277374,470.4261)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    // activityResuming(com.azhyun.mass)
+:Sending Touch (ACTION_DOWN): 0:(360.0,1147.0)
+    //[calendar_time:2019-02-12 18:02:07.356  system_uptime:12885802]
+    // Sending event #1300
+:Sending Touch (ACTION_UP): 0:(483.699,1188.235)
+:Sending Touch (ACTION_DOWN): 0:(426.0,767.0)
+:Sending Touch (ACTION_UP): 0:(420.49454,748.306)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(253.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(253.9627,1274.9812)
+:Sending Touch (ACTION_DOWN): 0:(611.0,372.0)
+:Sending Touch (ACTION_UP): 0:(618.52325,367.10654)
+:Sending Touch (ACTION_DOWN): 0:(229.0,896.0)
+:Sending Touch (ACTION_UP): 0:(273.66742,857.8685)
+:Sending Touch (ACTION_DOWN): 0:(480.0,1226.0)
+    // Allowing start of Intent { cmp=com.azhyun.mass/.activity.UserLogingActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_UP): 0:(446.72266,1227.2565)
+:Sending Touch (ACTION_DOWN): 0:(3.0,693.0)
+:Sending Touch (ACTION_UP): 0:(9.548408,681.5908)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,572.0)
+:Sending Touch (ACTION_UP): 0:(72.807755,565.3585)
+:Sending Touch (ACTION_DOWN): 0:(577.0,333.0)
+:Sending Touch (ACTION_UP): 0:(656.5764,322.37616)
+    // activityResuming(com.azhyun.mass)
+:Sending Touch (ACTION_DOWN): 0:(68.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(70.3917,1274.7892)
+:Sending Touch (ACTION_DOWN): 0:(168.0,73.0)
+:Sending Touch (ACTION_UP): 0:(171.9297,51.46669)
+    //[calendar_time:2019-02-12 18:02:08.118  system_uptime:12886564]
+    // Sending event #1400
+    //[calendar_time:2019-02-12 18:02:08.118  system_uptime:12886564]
+    // Sending event #1400
+:Sending Touch (ACTION_DOWN): 0:(327.0,923.0)
+:Sending Touch (ACTION_UP): 0:(323.92834,924.43176)
+:Sending Touch (ACTION_DOWN): 0:(308.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(313.6164,1052.6599)
+:Sending Touch (ACTION_DOWN): 0:(124.0,887.0)
+:Sending Touch (ACTION_UP): 0:(99.978516,890.39813)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(713.0,1123.0)
+:Sending Touch (ACTION_UP): 0:(713.8762,1110.1315)
+:Sending Touch (ACTION_DOWN): 0:(402.0,321.0)
+:Sending Touch (ACTION_UP): 0:(413.36417,320.29596)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(555.0,719.0)
+:Sending Touch (ACTION_UP): 0:(531.428,691.6439)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(682.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(606.0291,1095.6752)
+:Sending Touch (ACTION_DOWN): 0:(585.0,285.0)
+:Sending Touch (ACTION_UP): 0:(586.98114,279.27948)
+:Sending Touch (ACTION_DOWN): 0:(529.0,410.0)
+:Sending Touch (ACTION_UP): 0:(539.65375,416.38943)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(12.0,784.0)
+:Sending Touch (ACTION_UP): 0:(11.993797,787.869)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2019-02-12 18:02:09.432  system_uptime:12887878]
+    // Sending event #1500
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(303.0,1140.0)
+:Sending Touch (ACTION_UP): 0:(317.38184,1166.7001)
+:Sending Touch (ACTION_DOWN): 0:(493.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(485.86658,1004.88464)
+:Sending Touch (ACTION_DOWN): 0:(224.0,27.0)
+:Sending Touch (ACTION_UP): 0:(224.36697,27.211018)
+:Sending Touch (ACTION_DOWN): 0:(389.0,1156.0)
+:Sending Touch (ACTION_UP): 0:(412.545,1200.1501)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.azhyun.mass/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.azhyun.mass/.activity.SplashActivity } in package com.azhyun.mass
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(468.0,742.0)
+:Sending Touch (ACTION_UP): 0:(468.36594,742.5112)
+:Sending Touch (ACTION_DOWN): 0:(88.0,13.0)
+:Sending Touch (ACTION_UP): 0:(79.130554,3.7489738)
+:Sending Touch (ACTION_DOWN): 0:(645.0,196.0)
+:Sending Touch (ACTION_UP): 0:(644.3817,199.88026)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(76.0,623.0)
+    //[calendar_time:2019-02-12 18:02:09.873  system_uptime:12888319]
+    // Sending event #1600
+:Sending Touch (ACTION_UP): 0:(90.724754,629.85547)
+:Sending Touch (ACTION_DOWN): 0:(695.0,0.0)
+:Sending Touch (ACTION_UP): 0:(672.6958,45.07327)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(85.0,979.0)
+:Sending Touch (ACTION_UP): 0:(93.111244,980.3573)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(567.0,1195.0)
+:Sending Touch (ACTION_UP): 0:(554.63727,1202.9259)
+    // activityResuming(com.azhyun.mass)
+:Sending Touch (ACTION_DOWN): 0:(512.0,195.0)
+:Sending Touch (ACTION_UP): 0:(438.82947,273.92752)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(507.0,1067.0)
+:Sending Touch (ACTION_UP): 0:(489.02417,1071.5948)
+:Sending Touch (ACTION_DOWN): 0:(190.0,100.0)
+:Sending Touch (ACTION_UP): 0:(175.76016,103.42801)
+    //[calendar_time:2019-02-12 18:02:10.369  system_uptime:12888815]
+    // Sending event #1700
+    //[calendar_time:2019-02-12 18:02:10.369  system_uptime:12888815]
+    // Sending event #1700
+    // Allowing start of Intent { cmp=com.azhyun.mass/.activity.UserLogingActivity } in package com.azhyun.mass
+    // activityResuming(com.azhyun.mass)
+:Sending Touch (ACTION_DOWN): 0:(626.0,749.0)
+:Sending Touch (ACTION_UP): 0:(622.12616,743.74927)
+    // Allowing start of Intent { cmp=com.azhyun.mass/.activity.MainActivity2 } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(89.0,473.0)
+:Sending Touch (ACTION_UP): 0:(71.35191,482.19086)
+:Sending Touch (ACTION_DOWN): 0:(422.0,960.0)
+:Sending Touch (ACTION_UP): 0:(421.7807,960.0102)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(18.0,593.0)
+:Sending Touch (ACTION_UP): 0:(10.060565,591.0093)
+:Sending Touch (ACTION_DOWN): 0:(98.0,635.0)
+:Sending Touch (ACTION_UP): 0:(99.8204,639.21173)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    // Allowing start of Intent { cmp=com.azhyun.mass/.activity.UserLogingActivity } in package com.azhyun.mass
+:Sending Touch (ACTION_DOWN): 0:(298.0,1037.0)
+// CRASH: com.azhyun.mass (pid 19823)
+// Short Msg: java.lang.IllegalStateException
+// Long Msg: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+// Build Label: ZTE/N958St/N958St:4.4.4/KTU84P/eng.ztemt.20150228.151108:user/release-keys
+// Build Changelist: eng.ztemt.20150228.151108
+// Build Time: 1425107588000
+// com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+// 	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:224)
+// 	at com.google.gson.Gson.fromJson(Gson.java:887)
+// 	at com.google.gson.Gson.fromJson(Gson.java:852)
+// 	at com.google.gson.Gson.fromJson(Gson.java:801)
+// 	at com.google.gson.Gson.fromJson(Gson.java:773)
+// 	at com.azhyun.mass.utils.aa.a(TokenInterceptor.java:97)
+// 	at com.azhyun.mass.utils.aa.a(TokenInterceptor.java:46)
+// 	at okhttp3.aa$a.proceed(RealCall.java:190)
+// 	at okhttp3.aa.a(RealCall.java:163)
+// 	at okhttp3.aa.a(RealCall.java:30)
+// 	at okhttp3.aa$b.execute(RealCall.java:127)
+// 	at okhttp3.internal.NamedRunnable.run(NamedRunnable.java:32)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+// 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:385)
+// 	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:213)
+// 	... 14 more
+// 
+** Monkey aborted due to error.
+Events injected: 1767
+:Sending rotation degree=0, persist=false
+:Dropped: keys=2 pointers=30 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=12970ms (0ms mobile, 0ms wifi, 12970ms not connected)
+** System appears to have crashed at event 1767 of 10000 using seed 1551066542409

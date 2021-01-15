@@ -1,0 +1,1053 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\d9458b27a4a762b915effbeaf5aa3e41\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\AndroidManifest.xml:2:1-16:12
+MERGED from [com.jude:rollviewpager:1.4.6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.6.aar\06b0819274d7858f67de6674c1ceb19b\AndroidManifest.xml:2:1-11:12
+MERGED from [:library] D:\C\CompanyCode\Connect\azt\code\AZT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:autolayout] D:\C\CompanyCode\Connect\azt\code\AZT\autolayout\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.chihane:JDAddressSelector:1.1.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\JDAddressSelector-1.1.4.aar\a21976f4673e3fe52f3778cbdd790ef0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.sunfusheng:marqueeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\marqueeview-1.1.0.aar\77add40e20b6182599fba962c3381686\AndroidManifest.xml:2:1-17:12
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\e56e6b4f8e1434cea555377fe892e161\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.pinguo-zhouwei:CustomPopwindow:2.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\CustomPopwindow-2.1.1.aar\0b303f7ad3535d33ae4c193ba2031ff6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.lai.weavey:loadinglayout:1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loadinglayout-1.2.aar\c80f83412191cc8a925ea243805b523f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android:flexbox:0.2.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\flexbox-0.2.3.aar\98d3e63f14fff08dbaafa3ae1972c819\AndroidManifest.xml:17:1-27:12
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\3fe16a799218775150c20642c9760de1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\6c305b1d11e85766ebd4649f59d31f93\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\9abaf7067e3b6ddffbe50f766b8b1d17\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\34f497a401e8be976862861ad9d84916\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\9c9b19b1f32abc3d6e8ed81d0ae66c26\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\86e409377f4f12618d8d9c3a1191c42b\AndroidManifest.xml:17:1-27:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\313569048f385680845e85f89fc42f10\AndroidManifest.xml:2:1-11:12
+MERGED from [cn.bingoogolapple:bga-refreshlayout:1.1.6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\bga-refreshlayout-1.1.6.aar\3aefe675ce05427f6747b5ffe42ecb93\AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\AndroidManifest.xml:2:1-17:12
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxbinding-0.4.0.aar\a03d3731817827703a584ebb43321440\AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\4550866b4e48a1982051f4a36477c5da\AndroidManifest.xml:15:1-21:12
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.9.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.0.aar\c3e464feded683a7103d618ab3abd3db\AndroidManifest.xml:2:1-13:12
+MERGED from [com.kaopiz:kprogresshud:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.0.2.aar\a62c987b0ab57c34d54fd4624476437f\AndroidManifest.xml:2:1-15:12
+MERGED from [com.weigan:loopView:0.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loopView-0.1.2.aar\1e620a09d2d636e39c8e0321390aea2f\AndroidManifest.xml:2:1-14:12
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:2:1-25:12
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\10ed8e24ccedec84df4c6ba30a39edc3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\2ab79277b9eccd88bcf0a87ee05a6336\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\Android-AdvancedWebView-v3.0.0.aar\3c16aa433c879cf323fb633534c02453\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\85aa4dfc27fbbdcdb5975854de6a2641\AndroidManifest.xml:17:1-22:12
+MERGED from [com.bm.photoview:library:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.4.1.aar\82f68a3043efa490a8c6561602db188b\AndroidManifest.xml:2:1-14:12
+MERGED from [com.tencent.mm.opensdk:wechat-sdk-android-without-mta:6.6.5.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\wechat-sdk-android-without-mta-6.6.5.2.aar\9e729f23a26e63997c84b0dd17779234\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.HanHuoBin:BaseDialog:1.2.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\BaseDialog-1.2.0.aar\4f09bc2e7e965b2122877f53077ea792\AndroidManifest.xml:2:1-17:12
+MERGED from [q.rorbin:badgeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.0.aar\f0cdf18674bc6437f0f47e47afb49111\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\3d45c8e2fc357d58e67e17ad95bbabf2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\d404d79f1af2963e4165df445fac9a5e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\5a9ef7acf5a32e0f2e3859c9384dded4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\da855676eec3efc36c8e6c7d6cde6987\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\9541e9d4191b309f86a85da8b22b848c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.1.aar\8eb6e345ea37bb30586115bb086ba4f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\59b849709e356cccd640899133733dd6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\c63a52b1c65cdc7df69b09da799696a8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\dbflow-3.0.0-beta6.aar\85cfe22f2db42c0d692dea715bd1eda8\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.chihane:AndroidUtils:1.0.10] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\AndroidUtils-1.0.10.aar\fc39d0ae3a00037bfeb472bfa523e58a\AndroidManifest.xml:2:1-16:12
+MERGED from [com.mikepenz:materialize:0.9.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialize-0.9.0.aar\08976c171ff5ccf797223e4af78ee9c8\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:iconics-core:2.7.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\iconics-core-2.7.2.aar\19c6590f9d0e0364ef4d90780ed89a4f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter:1.6.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fastadapter-1.6.1.aar\1dd24dd4d683e3716182a5522db31e65\AndroidManifest.xml:2:1-12:12
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+	package
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:11-69
+	xmlns:serviceandroid
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:3:5-67
+uses-sdk
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\d9458b27a4a762b915effbeaf5aa3e41\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\d9458b27a4a762b915effbeaf5aa3e41\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jude:rollviewpager:1.4.6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.6.aar\06b0819274d7858f67de6674c1ceb19b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jude:rollviewpager:1.4.6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.6.aar\06b0819274d7858f67de6674c1ceb19b\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] D:\C\CompanyCode\Connect\azt\code\AZT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:library] D:\C\CompanyCode\Connect\azt\code\AZT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:autolayout] D:\C\CompanyCode\Connect\azt\code\AZT\autolayout\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:autolayout] D:\C\CompanyCode\Connect\azt\code\AZT\autolayout\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chihane:JDAddressSelector:1.1.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\JDAddressSelector-1.1.4.aar\a21976f4673e3fe52f3778cbdd790ef0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chihane:JDAddressSelector:1.1.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\JDAddressSelector-1.1.4.aar\a21976f4673e3fe52f3778cbdd790ef0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sunfusheng:marqueeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\marqueeview-1.1.0.aar\77add40e20b6182599fba962c3381686\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sunfusheng:marqueeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\marqueeview-1.1.0.aar\77add40e20b6182599fba962c3381686\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\e56e6b4f8e1434cea555377fe892e161\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\e56e6b4f8e1434cea555377fe892e161\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pinguo-zhouwei:CustomPopwindow:2.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\CustomPopwindow-2.1.1.aar\0b303f7ad3535d33ae4c193ba2031ff6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pinguo-zhouwei:CustomPopwindow:2.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\CustomPopwindow-2.1.1.aar\0b303f7ad3535d33ae4c193ba2031ff6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lai.weavey:loadinglayout:1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loadinglayout-1.2.aar\c80f83412191cc8a925ea243805b523f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lai.weavey:loadinglayout:1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loadinglayout-1.2.aar\c80f83412191cc8a925ea243805b523f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android:flexbox:0.2.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\flexbox-0.2.3.aar\98d3e63f14fff08dbaafa3ae1972c819\AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android:flexbox:0.2.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\flexbox-0.2.3.aar\98d3e63f14fff08dbaafa3ae1972c819\AndroidManifest.xml:23:5-25:41
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\3fe16a799218775150c20642c9760de1\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\3fe16a799218775150c20642c9760de1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\6c305b1d11e85766ebd4649f59d31f93\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\6c305b1d11e85766ebd4649f59d31f93\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\9abaf7067e3b6ddffbe50f766b8b1d17\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\9abaf7067e3b6ddffbe50f766b8b1d17\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\34f497a401e8be976862861ad9d84916\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\34f497a401e8be976862861ad9d84916\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\9c9b19b1f32abc3d6e8ed81d0ae66c26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\9c9b19b1f32abc3d6e8ed81d0ae66c26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\86e409377f4f12618d8d9c3a1191c42b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\86e409377f4f12618d8d9c3a1191c42b\AndroidManifest.xml:21:5-23:54
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\313569048f385680845e85f89fc42f10\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\313569048f385680845e85f89fc42f10\AndroidManifest.xml:5:5-7:41
+MERGED from [cn.bingoogolapple:bga-refreshlayout:1.1.6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\bga-refreshlayout-1.1.6.aar\3aefe675ce05427f6747b5ffe42ecb93\AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-refreshlayout:1.1.6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\bga-refreshlayout-1.1.6.aar\3aefe675ce05427f6747b5ffe42ecb93\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxbinding-0.4.0.aar\a03d3731817827703a584ebb43321440\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxbinding-0.4.0.aar\a03d3731817827703a584ebb43321440\AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\4550866b4e48a1982051f4a36477c5da\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\4550866b4e48a1982051f4a36477c5da\AndroidManifest.xml:19:5-43
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.9.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.0.aar\c3e464feded683a7103d618ab3abd3db\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.9.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.0.aar\c3e464feded683a7103d618ab3abd3db\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kaopiz:kprogresshud:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.0.2.aar\a62c987b0ab57c34d54fd4624476437f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kaopiz:kprogresshud:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.0.2.aar\a62c987b0ab57c34d54fd4624476437f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.weigan:loopView:0.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loopView-0.1.2.aar\1e620a09d2d636e39c8e0321390aea2f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.weigan:loopView:0.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loopView-0.1.2.aar\1e620a09d2d636e39c8e0321390aea2f\AndroidManifest.xml:7:5-9:41
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:5:5-7:41
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\10ed8e24ccedec84df4c6ba30a39edc3\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\10ed8e24ccedec84df4c6ba30a39edc3\AndroidManifest.xml:5:5-43
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\2ab79277b9eccd88bcf0a87ee05a6336\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\banner-1.4.9.aar\2ab79277b9eccd88bcf0a87ee05a6336\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\Android-AdvancedWebView-v3.0.0.aar\3c16aa433c879cf323fb633534c02453\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\Android-AdvancedWebView-v3.0.0.aar\3c16aa433c879cf323fb633534c02453\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\85aa4dfc27fbbdcdb5975854de6a2641\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\85aa4dfc27fbbdcdb5975854de6a2641\AndroidManifest.xml:20:5-43
+MERGED from [com.bm.photoview:library:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.4.1.aar\82f68a3043efa490a8c6561602db188b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bm.photoview:library:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.4.1.aar\82f68a3043efa490a8c6561602db188b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.mm.opensdk:wechat-sdk-android-without-mta:6.6.5.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\wechat-sdk-android-without-mta-6.6.5.2.aar\9e729f23a26e63997c84b0dd17779234\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.mm.opensdk:wechat-sdk-android-without-mta:6.6.5.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\wechat-sdk-android-without-mta-6.6.5.2.aar\9e729f23a26e63997c84b0dd17779234\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.HanHuoBin:BaseDialog:1.2.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\BaseDialog-1.2.0.aar\4f09bc2e7e965b2122877f53077ea792\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.HanHuoBin:BaseDialog:1.2.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\BaseDialog-1.2.0.aar\4f09bc2e7e965b2122877f53077ea792\AndroidManifest.xml:7:5-9:41
+MERGED from [q.rorbin:badgeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.0.aar\f0cdf18674bc6437f0f47e47afb49111\AndroidManifest.xml:7:5-9:41
+MERGED from [q.rorbin:badgeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.0.aar\f0cdf18674bc6437f0f47e47afb49111\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\3d45c8e2fc357d58e67e17ad95bbabf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\3d45c8e2fc357d58e67e17ad95bbabf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\d404d79f1af2963e4165df445fac9a5e\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\d404d79f1af2963e4165df445fac9a5e\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\5a9ef7acf5a32e0f2e3859c9384dded4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\5a9ef7acf5a32e0f2e3859c9384dded4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\da855676eec3efc36c8e6c7d6cde6987\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\da855676eec3efc36c8e6c7d6cde6987\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\9541e9d4191b309f86a85da8b22b848c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\9541e9d4191b309f86a85da8b22b848c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.1.aar\8eb6e345ea37bb30586115bb086ba4f4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.1.aar\8eb6e345ea37bb30586115bb086ba4f4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\59b849709e356cccd640899133733dd6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\59b849709e356cccd640899133733dd6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\c63a52b1c65cdc7df69b09da799696a8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\c63a52b1c65cdc7df69b09da799696a8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\dbflow-3.0.0-beta6.aar\85cfe22f2db42c0d692dea715bd1eda8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\dbflow-3.0.0-beta6.aar\85cfe22f2db42c0d692dea715bd1eda8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chihane:AndroidUtils:1.0.10] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\AndroidUtils-1.0.10.aar\fc39d0ae3a00037bfeb472bfa523e58a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chihane:AndroidUtils:1.0.10] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\AndroidUtils-1.0.10.aar\fc39d0ae3a00037bfeb472bfa523e58a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:materialize:0.9.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialize-0.9.0.aar\08976c171ff5ccf797223e4af78ee9c8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:0.9.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialize-0.9.0.aar\08976c171ff5ccf797223e4af78ee9c8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.7.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\iconics-core-2.7.2.aar\19c6590f9d0e0364ef4d90780ed89a4f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.7.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\iconics-core-2.7.2.aar\19c6590f9d0e0364ef4d90780ed89a4f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:1.6.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fastadapter-1.6.1.aar\1dd24dd4d683e3716182a5522db31e65\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:1.6.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fastadapter-1.6.1.aar\1dd24dd4d683e3716182a5522db31e65\AndroidManifest.xml:8:5-10:41
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\9abaf7067e3b6ddffbe50f766b8b1d17\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.INTERNET
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:11:5-65
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:11:5-65
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:12:5-14:47
+	tools:ignore
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:13:9-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:15:5-81
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:9:5-81
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.NFC
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:20:5-62
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:20:22-59
+uses-feature#android.hardware.nfc.hce
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:22:5-61
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:22:19-58
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:24:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:25:22-77
+uses-permission#org.simalliance.openmobileapi.SMARTCARD
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:27:5-80
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:10:5-80
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:27:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:33:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:56:5-85
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:56:22-82
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:62:5-64:47
+	tools:ignore
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:64:9-44
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:63:9-57
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:71:5-69
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:71:22-66
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:80:5-83
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:80:22-80
+permission#com.azhyun.massxj.permission.JPUSH_MESSAGE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:83:5-85:47
+	android:protectionLevel
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:85:9-44
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:84:9-66
+uses-permission#com.azhyun.mass.permission.JPUSH_MESSAGE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:88:5-80
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:88:22-77
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:89:5-79
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:89:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:98:5-66
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:98:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:106:5-78
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:106:22-75
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:110:5-89
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:110:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:111:5-79
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:111:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:112:5-68
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:112:22-65
+application
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:123:5-459:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:9:5-20
+MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\AndroidManifest.xml:11:5-14:19
+MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\AndroidManifest.xml:11:5-14:19
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.chihane:JDAddressSelector:1.1.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\JDAddressSelector-1.1.4.aar\a21976f4673e3fe52f3778cbdd790ef0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.chihane:JDAddressSelector:1.1.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\JDAddressSelector-1.1.4.aar\a21976f4673e3fe52f3778cbdd790ef0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.sunfusheng:marqueeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\marqueeview-1.1.0.aar\77add40e20b6182599fba962c3381686\AndroidManifest.xml:11:5-15:19
+MERGED from [com.sunfusheng:marqueeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\marqueeview-1.1.0.aar\77add40e20b6182599fba962c3381686\AndroidManifest.xml:11:5-15:19
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\e56e6b4f8e1434cea555377fe892e161\AndroidManifest.xml:11:5-15:19
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\e56e6b4f8e1434cea555377fe892e161\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.pinguo-zhouwei:CustomPopwindow:2.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\CustomPopwindow-2.1.1.aar\0b303f7ad3535d33ae4c193ba2031ff6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.pinguo-zhouwei:CustomPopwindow:2.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\CustomPopwindow-2.1.1.aar\0b303f7ad3535d33ae4c193ba2031ff6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.lai.weavey:loadinglayout:1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loadinglayout-1.2.aar\c80f83412191cc8a925ea243805b523f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.lai.weavey:loadinglayout:1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loadinglayout-1.2.aar\c80f83412191cc8a925ea243805b523f\AndroidManifest.xml:11:5-15:19
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\3fe16a799218775150c20642c9760de1\AndroidManifest.xml:11:5-20
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\3fe16a799218775150c20642c9760de1\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\6c305b1d11e85766ebd4649f59d31f93\AndroidManifest.xml:11:5-15:19
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\6c305b1d11e85766ebd4649f59d31f93\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\9abaf7067e3b6ddffbe50f766b8b1d17\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\9abaf7067e3b6ddffbe50f766b8b1d17\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\34f497a401e8be976862861ad9d84916\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\34f497a401e8be976862861ad9d84916\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\9c9b19b1f32abc3d6e8ed81d0ae66c26\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\9c9b19b1f32abc3d6e8ed81d0ae66c26\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\86e409377f4f12618d8d9c3a1191c42b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\86e409377f4f12618d8d9c3a1191c42b\AndroidManifest.xml:25:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\313569048f385680845e85f89fc42f10\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\313569048f385680845e85f89fc42f10\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\AndroidManifest.xml:11:5-15:19
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.9.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.0.aar\c3e464feded683a7103d618ab3abd3db\AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.9.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.0.aar\c3e464feded683a7103d618ab3abd3db\AndroidManifest.xml:11:5-20
+MERGED from [com.kaopiz:kprogresshud:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.0.2.aar\a62c987b0ab57c34d54fd4624476437f\AndroidManifest.xml:11:5-13:38
+MERGED from [com.kaopiz:kprogresshud:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.0.2.aar\a62c987b0ab57c34d54fd4624476437f\AndroidManifest.xml:11:5-13:38
+MERGED from [com.weigan:loopView:0.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loopView-0.1.2.aar\1e620a09d2d636e39c8e0321390aea2f\AndroidManifest.xml:11:5-12:19
+MERGED from [com.weigan:loopView:0.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\loopView-0.1.2.aar\1e620a09d2d636e39c8e0321390aea2f\AndroidManifest.xml:11:5-12:19
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:13:5-23:19
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:13:5-23:19
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\Android-AdvancedWebView-v3.0.0.aar\3c16aa433c879cf323fb633534c02453\AndroidManifest.xml:9:5-20
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\Android-AdvancedWebView-v3.0.0.aar\3c16aa433c879cf323fb633534c02453\AndroidManifest.xml:9:5-20
+MERGED from [com.bm.photoview:library:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.4.1.aar\82f68a3043efa490a8c6561602db188b\AndroidManifest.xml:11:5-12:19
+MERGED from [com.bm.photoview:library:1.4.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.4.1.aar\82f68a3043efa490a8c6561602db188b\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.HanHuoBin:BaseDialog:1.2.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\BaseDialog-1.2.0.aar\4f09bc2e7e965b2122877f53077ea792\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.HanHuoBin:BaseDialog:1.2.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\BaseDialog-1.2.0.aar\4f09bc2e7e965b2122877f53077ea792\AndroidManifest.xml:11:5-15:19
+MERGED from [q.rorbin:badgeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.0.aar\f0cdf18674bc6437f0f47e47afb49111\AndroidManifest.xml:11:5-20
+MERGED from [q.rorbin:badgeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.0.aar\f0cdf18674bc6437f0f47e47afb49111\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\3d45c8e2fc357d58e67e17ad95bbabf2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\3d45c8e2fc357d58e67e17ad95bbabf2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\d404d79f1af2963e4165df445fac9a5e\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\d404d79f1af2963e4165df445fac9a5e\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\5a9ef7acf5a32e0f2e3859c9384dded4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\5a9ef7acf5a32e0f2e3859c9384dded4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\da855676eec3efc36c8e6c7d6cde6987\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\da855676eec3efc36c8e6c7d6cde6987\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\9541e9d4191b309f86a85da8b22b848c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\9541e9d4191b309f86a85da8b22b848c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\59b849709e356cccd640899133733dd6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\59b849709e356cccd640899133733dd6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\c63a52b1c65cdc7df69b09da799696a8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\c63a52b1c65cdc7df69b09da799696a8\AndroidManifest.xml:25:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\dbflow-3.0.0-beta6.aar\85cfe22f2db42c0d692dea715bd1eda8\AndroidManifest.xml:11:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\dbflow-3.0.0-beta6.aar\85cfe22f2db42c0d692dea715bd1eda8\AndroidManifest.xml:11:5-20
+MERGED from [com.github.chihane:AndroidUtils:1.0.10] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\AndroidUtils-1.0.10.aar\fc39d0ae3a00037bfeb472bfa523e58a\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.chihane:AndroidUtils:1.0.10] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\AndroidUtils-1.0.10.aar\fc39d0ae3a00037bfeb472bfa523e58a\AndroidManifest.xml:11:5-14:19
+	android:supportsRtl
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:129:9-35
+	android:label
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:127:9-41
+	android:resizeableActivity
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:128:9-42
+	android:icon
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:126:9-37
+		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\6c305b1d11e85766ebd4649f59d31f93\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:125:9-35
+	android:theme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:130:9-40
+	tools:replace
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:131:9-52
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:124:9-38
+activity#com.azhyun.massxj.activity.SplashActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:132:9-140:20
+	android:launchMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:133:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:135:13-139:29
+action#android.intent.action.MAIN
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:136:17-69
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:136:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:138:17-77
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:138:27-74
+activity#com.azhyun.massxj.activity.MainActivity2
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:141:9-155:20
+	android:launchMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:143:13-44
+	android:windowSoftInputMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:144:13-52
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:142:13-51
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:145:13-154:29
+action#android.intent.action.VIEW
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:146:17-69
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:146:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:148:17-76
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:148:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:149:17-78
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:149:27-75
+data
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:151:17-153:56
+	android:host
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:152:21-43
+	android:scheme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:153:21-53
+activity#com.azhyun.massxj.activity.PublishedActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:156:9-158:47
+	android:launchMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:158:13-44
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:157:13-55
+activity#com.azhyun.massxj.activity.UserLogingActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:159:9-65
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:159:19-62
+activity#com.azhyun.massxj.activity.FarmingServiceActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:160:9-69
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:160:19-66
+activity#com.azhyun.massxj.activity.SupplyLobbyActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:161:9-66
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:161:19-63
+activity#com.azhyun.massxj.activity.ReleaseTheSupplyActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:162:9-71
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:162:19-68
+activity#com.azhyun.massxj.activity.ReleaseForActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:163:9-65
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:163:19-62
+activity#com.azhyun.massxj.activity.ReleaseTheSupplyPubackActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:164:9-77
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:164:19-74
+activity#com.azhyun.massxj.activity.MyTrusteeshipActivity2
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:165:9-69
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:165:19-66
+activity#com.azhyun.massxj.activity.UserInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:166:9-63
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:166:19-60
+activity#com.azhyun.massxj.activity.ServiceOrderActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:167:9-67
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:167:19-64
+activity#com.azhyun.massxj.activity.OrderInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:168:9-64
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:168:19-61
+activity#com.azhyun.massxj.activity.OrderInfoActivity2
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:169:9-65
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:169:19-62
+activity#com.azhyun.massxj.activity.AddCommentActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:170:9-65
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:170:19-62
+activity#com.azhyun.massxj.activity.MineAuditActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:171:9-64
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:171:19-61
+activity#com.azhyun.massxj.activity.ApplyForInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:172:9-67
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:172:19-64
+activity#com.azhyun.massxj.activity.ApplyForResultActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:173:9-69
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:173:19-66
+activity#com.azhyun.massxj.activity.UploadImageActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:174:9-66
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:174:19-63
+activity#com.azhyun.massxj.activity.AgentInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:175:9-64
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:175:19-61
+activity#com.azhyun.massxj.activity.SubmitSucceedActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:176:9-68
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:176:19-65
+activity#com.azhyun.massxj.activity.FarmingServiceInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:177:9-73
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:177:19-70
+activity#com.azhyun.massxj.activity.FarmingServiceOrderActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:178:9-74
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:178:19-71
+activity#com.azhyun.massxj.activity.SupplyInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:179:9-65
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:179:19-62
+activity#com.azhyun.massxj.activity.BuyInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:180:9-62
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:180:19-59
+activity#com.azhyun.massxj.activity.UserInfoAlterActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:181:9-68
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:181:19-65
+activity#com.azhyun.massxj.activity.MineSupplyDemandActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:182:9-71
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:182:19-68
+activity#com.azhyun.massxj.activity.MineSupplyInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:183:9-69
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:183:19-66
+activity#com.azhyun.massxj.activity.MineBuyInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:184:9-66
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:184:19-63
+activity#com.azhyun.massxj.activity.MyLandHostingActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:185:9-68
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:185:19-65
+activity#com.azhyun.massxj.activity.MyAgentInfoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:186:9-66
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:186:19-63
+activity#com.azhyun.massxj.activity.MianMessageActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:187:9-66
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:187:19-63
+activity#com.azhyun.massxj.activity.MyImagesActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:188:9-63
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:188:19-60
+activity#com.azhyun.massxj.activity.UserInfoPhoneAlterActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:189:9-73
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:189:19-70
+activity#com.azhyun.massxj.activity.PhoneAlterVerifyAcitvity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:190:9-71
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:190:19-68
+activity#com.azhyun.massxj.activity.SelectApproverAcitivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:191:9-70
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:191:19-67
+activity#com.azhyun.massxj.x5webview.TencentBrowserActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:192:9-70
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:192:19-67
+meta-data#design_width
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:194:9-196:35
+	android:value
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:196:13-32
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:195:13-40
+meta-data#design_height
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:197:9-199:36
+	android:value
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:199:13-33
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:198:13-41
+meta-data#android.max_aspect
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:200:9-202:35
+	android:value
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:202:13-32
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:201:13-46
+activity#me.iwf.photopicker.PhotoPickerActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:204:9-206:50
+	android:theme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:206:13-47
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:205:13-66
+activity#me.iwf.photopicker.PhotoPagerActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:207:9-209:66
+	android:theme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:209:13-63
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:208:13-65
+activity#com.azhyun.massxj.activity.MyParticipationActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:210:9-70
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:210:19-67
+activity#com.azhyun.massxj.activity.ManagementActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:211:9-65
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:211:19-62
+activity#com.azhyun.massxj.activity.ManagementDetailsActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:212:9-72
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:212:19-69
+meta-data#UMENG_APPKEY
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:215:9-217:56
+	android:value
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:217:13-53
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:216:13-40
+meta-data#UMENG_CHANNEL
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:218:9-220:37
+	android:value
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:220:13-34
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:219:13-41
+service#com.baidu.location.f
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:223:9-226:41
+	android:process
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:226:13-38
+	android:enabled
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:225:13-35
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:224:13-48
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:228:9-230:64
+	android:value
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:230:13-61
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:229:13-52
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:233:9-236:52
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:235:13-37
+	android:theme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:236:13-49
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:234:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:240:9-251:20
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:243:13-37
+	android:configChanges
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:242:13-63
+	android:theme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:244:13-60
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:241:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.azhyun.mass
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:245:13-250:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:246:17-75
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:246:25-72
+category#com.azhyun.mass
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:249:17-60
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:249:27-57
+service#cn.jpush.android.service.PushService
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:255:9-265:19
+	android:process
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:258:13-36
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:257:13-37
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:256:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:259:13-264:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:260:17-75
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:260:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:261:17-73
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:261:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:262:17-78
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:262:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:263:17-76
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:263:25-73
+provider#cn.jpush.android.service.DataProvider
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:267:9-270:40
+	android:authorities
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:269:13-65
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:270:13-37
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:268:13-65
+service#cn.jpush.android.service.DaemonService
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:273:9-282:19
+	android:enabled
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:275:13-35
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:276:13-36
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:274:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.azhyun.mass
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:277:13-281:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:278:17-80
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:278:25-77
+provider#cn.jpush.android.service.DownloadProvider
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:284:9-287:39
+	android:authorities
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:286:13-69
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:287:13-36
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:285:13-69
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:289:9-308:20
+	android:enabled
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:291:13-35
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:292:13-37
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:290:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.azhyun.mass
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:293:13-296:29
+	android:priority
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:293:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:294:17-94
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:294:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:297:13-300:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:298:17-77
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:298:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:299:17-79
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:299:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:302:13-307:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:303:17-78
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:303:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:304:17-80
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:304:25-77
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:311:9-313:40
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:313:13-37
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:312:13-66
+receiver#com.azhyun.massxj.jpush.MyReceiver
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:316:9-328:20
+	android:enabled
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:318:13-35
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:319:13-37
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:317:13-45
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.azhyun.mass
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:320:13-327:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:321:17-79
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:321:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:322:17-83
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:322:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:323:17-88
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:323:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:324:17-86
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:324:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:325:17-77
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:325:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:338:9-340:49
+	android:value
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:340:13-46
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:339:13-41
+meta-data#JPUSH_APPKEY
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:341:9-343:56
+	android:value
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:343:13-53
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:342:13-40
+activity#com.umeng.socialize.media.WBShareCallBackActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:347:9-351:75
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:350:13-37
+	android:configChanges
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:349:13-63
+	android:theme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:351:13-72
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:348:13-77
+activity#com.sina.weibo.sdk.web.WeiboSdkWebActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:352:9-356:58
+	android:windowSoftInputMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:356:13-55
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:355:13-37
+	android:configChanges
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:354:13-63
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:353:13-70
+activity#com.sina.weibo.sdk.share.WbShareTransActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:357:9-366:20
+	android:launchMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:359:13-44
+	android:theme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:360:13-83
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:358:13-73
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:361:13-365:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:362:17-92
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:362:25-89
+uses-library#org.simalliance.openmobileapi
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:369:9-371:40
+	android:required
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:371:13-37
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:370:13-57
+activity#com.unionpay.uppay.PayActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:373:9-379:58
+	android:screenOrientation
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:378:13-49
+	android:label
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:377:13-45
+	android:excludeFromRecents
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:376:13-46
+	android:windowSoftInputMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:379:13-55
+	android:configChanges
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:375:13-63
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:374:13-58
+activity#com.unionpay.UPPayWapActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:380:9-384:58
+	android:screenOrientation
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:383:13-49
+	android:windowSoftInputMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:384:13-55
+	android:configChanges
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:382:13-63
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:381:13-57
+activity#com.azhyun.massxj.wxapi.WXPayEntryActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:386:9-390:52
+	android:screenOrientation
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:390:13-49
+	android:launchMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:389:13-43
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:388:13-36
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:387:13-53
+activity#com.azhyun.massxj.wxapi.WXEntryActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:395:9-401:75
+	android:label
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:398:13-45
+	android:launchMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:399:13-44
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:397:13-36
+	android:theme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:401:13-72
+	android:taskAffinity
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:400:13-51
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:396:13-50
+activity#com.tencent.tauth.AuthActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:404:9-416:20
+	android:launchMode
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:406:13-44
+	android:noHistory
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:407:13-37
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:405:13-58
+activity#com.tencent.connect.common.AssistActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:417:9-420:75
+	android:configChanges
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:419:13-74
+	android:theme
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:420:13-72
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:418:13-69
+provider#android.support.v4.content.FileProvider
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:423:9-432:20
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:14:9-22:20
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:14:9-22:20
+	android:grantUriPermissions
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:427:13-47
+	android:authorities
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:425:13-61
+	android:exported
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:426:13-37
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:424:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:428:13-431:52
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:19:13-21:67
+MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:19:13-21:67
+	android:resource
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:430:17-51
+		REJECTED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:21:17-64
+	tools:replace
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:431:17-49
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:429:17-67
+service#com.azhyun.massxj.utils.update.UpdateAppService
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:434:9-436:38
+	android:enabled
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:436:13-35
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:435:13-58
+activity#com.azhyun.massxj.activity.azt.AgriculturalMaterialsMallActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:438:9-84
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:438:19-81
+activity#com.azhyun.massxj.activity.azt.OrderActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:439:9-64
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:439:19-61
+activity#com.azhyun.massxj.activity.azt.CommodityDetailsActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:440:9-75
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:440:19-72
+activity#com.azhyun.massxj.activity.azt.CaiGouOrderDetailsActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:441:9-77
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:441:19-74
+activity#com.azhyun.massxj.activity.azt.caigou.CaiGouCommodityDetailsActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:442:9-88
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:442:19-85
+activity#com.azhyun.massxj.activity.azt.SubmitOrderActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:443:9-70
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:443:19-67
+activity#com.azhyun.massxj.activity.azt.caigou.CaiGouSubmitOrderActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:444:9-83
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:444:19-80
+activity#com.azhyun.massxj.activity.azt.OrderDetailsActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:445:9-71
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:445:19-68
+activity#com.azhyun.massxj.activity.azt.ProductInfoImagesActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:446:9-76
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:446:19-73
+activity#com.azhyun.massxj.activity.azt.NewFieldActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:447:9-67
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:447:19-64
+activity#com.azhyun.massxj.activity.azt.MainActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:448:9-63
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:448:19-60
+activity#com.azhyun.massxj.activity.azt.OrderPayActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:449:9-67
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:449:19-64
+activity#com.azhyun.massxj.activity.azt.locailtyactivity.LocalityLiveActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:450:9-88
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:450:19-85
+activity#com.azhyun.massxj.activity.azt.farmingInsurance.FarmingInsuranceDetailsActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:451:9-99
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:451:19-96
+activity#com.azhyun.massxj.activity.azt.farmingInsurance.NxReserveActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:452:9-85
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:452:19-82
+activity#com.azhyun.massxj.activity.azt.farmingInsurance.NxTxOrderActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:453:9-85
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:453:19-82
+activity#com.azhyun.massxj.activity.azt.NbOrderDetailsActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:454:9-73
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:454:19-70
+activity#com.azhyun.massxj.activity.azt.MyIntegralActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:455:9-69
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:455:19-66
+activity#com.azhyun.massxj.activity.azt.GongYingXqActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:456:9-69
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:456:19-66
+activity#com.azhyun.massxj.activity.azt.CaiPurchaseActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:457:9-70
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:457:19-67
+activity#com.azhyun.massxj.activity.azt.caigou.CaiGouDingDanLieBiaoActivity
+ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:458:9-95
+	android:name
+		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:458:19-83
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\AndroidManifest.xml:12:9-14:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\AndroidManifest.xml:14:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\AndroidManifest.xml:13:13-84

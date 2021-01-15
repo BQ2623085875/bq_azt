@@ -1,0 +1,4 @@
+#Mon Oct 26 17:04:34 CST 2020
+base.0=D\:\\CompanyProject\\Connect\\azt\\versions\\zuixin\\AZT\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\429
+renamed.0=classes.dex
+file.0=D\:\\CompanyProject\\Connect\\azt\\versions\\zuixin\\AZT\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\429\\classes.dex
