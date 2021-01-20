@@ -7,10 +7,10 @@ public class Constant {
     /**
      * 爱种田
      */
+//    public static final String BASE_URL = "http://192.168.0.116:8066/azt/";//王鑫测试
 //    public static final String BASE_URL = "http://192.168.0.168:8080/azt/";//谢明
-    public static final String BASE_URL = "http://192.168.0.168:8080/azt/";//新测试
-//    public static final String BASE_URL = "http://192.168.31.199:8080/azt/";//新测试2
-//    public static final String BASE_URL = "https://aizt.51zhongzi.com/";//正式
+    public static final String BASE_URL = "https://aizt.51zhongzi.com/";//正式
+
 
 
     /**

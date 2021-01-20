@@ -65,15 +65,15 @@ public class NongYuZhiBean {
          * credit : 200
          */
 
-        private int currency;
+        private String currency;
         private String credit;
         private List<DetailsBean> details;
 
-        public int getCurrency() {
+        public String getCurrency() {
             return currency;
         }
 
-        public void setCurrency(int currency) {
+        public void setCurrency(String currency) {
             this.currency = currency;
         }
 

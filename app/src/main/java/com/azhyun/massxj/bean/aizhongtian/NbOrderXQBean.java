@@ -578,7 +578,7 @@ public class NbOrderXQBean {
             private String idcard;
             private String mu;
             private String name;
-            private int currency;
+            private String currency;
             private String id;
             private String region;
 
@@ -646,11 +646,11 @@ public class NbOrderXQBean {
                 this.name = name;
             }
 
-            public int getCurrency() {
+            public String getCurrency() {
                 return currency;
             }
 
-            public void setCurrency(int currency) {
+            public void setCurrency(String currency) {
                 this.currency = currency;
             }
 

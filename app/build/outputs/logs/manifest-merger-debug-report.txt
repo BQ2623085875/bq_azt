@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:1-462:12
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:1-462:12
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:1-462:12
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:1-462:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\d9458b27a4a762b915effbeaf5aa3e41\AndroidManifest.xml:2:1-11:12
 MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\AndroidManifest.xml:2:1-16:12
 MERGED from [com.jude:rollviewpager:1.4.6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.6.aar\06b0819274d7858f67de6674c1ceb19b\AndroidManifest.xml:2:1-11:12
-MERGED from [:library] D:\C\CompanyCode\Connect\azt\code\AZT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-12:12
-MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
-MERGED from [:autolayout] D:\C\CompanyCode\Connect\azt\code\AZT\autolayout\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:library] D:\C\CompanyCode\Connect\azt\AZT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:autolayout] D:\C\CompanyCode\Connect\azt\AZT\autolayout\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-12:12
 MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:2:1-17:12
 MERGED from [com.github.chihane:JDAddressSelector:1.1.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\JDAddressSelector-1.1.4.aar\a21976f4673e3fe52f3778cbdd790ef0\AndroidManifest.xml:2:1-16:12
 MERGED from [com.sunfusheng:marqueeview:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\marqueeview-1.1.0.aar\77add40e20b6182599fba962c3381686\AndroidManifest.xml:2:1-17:12
@@ -54,31 +54,31 @@ MERGED from [com.github.chihane:AndroidUtils:1.0.10] C:\Users\dell\.gradle\cache
 MERGED from [com.mikepenz:materialize:0.9.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialize-0.9.0.aar\08976c171ff5ccf797223e4af78ee9c8\AndroidManifest.xml:2:1-12:12
 MERGED from [com.mikepenz:iconics-core:2.7.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\iconics-core-2.7.2.aar\19c6590f9d0e0364ef4d90780ed89a4f\AndroidManifest.xml:2:1-12:12
 MERGED from [com.mikepenz:fastadapter:1.6.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fastadapter-1.6.1.aar\1dd24dd4d683e3716182a5522db31e65\AndroidManifest.xml:2:1-12:12
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:1-462:12
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:1-462:12
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:1-462:12
 	package
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:5:5-32
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:1-462:12
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:4:5-51
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:4:5-51
 	android:versionCode
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:1-461:12
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:1-462:12
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:2:11-69
 	xmlns:serviceandroid
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:3:5-67
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:3:5-67
 uses-sdk
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:7:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\d9458b27a4a762b915effbeaf5aa3e41\AndroidManifest.xml:7:5-9:41
@@ -87,12 +87,12 @@ MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradl
 MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\AndroidManifest.xml:7:5-9:41
 MERGED from [com.jude:rollviewpager:1.4.6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.6.aar\06b0819274d7858f67de6674c1ceb19b\AndroidManifest.xml:7:5-9:41
 MERGED from [com.jude:rollviewpager:1.4.6] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\rollviewpager-1.4.6.aar\06b0819274d7858f67de6674c1ceb19b\AndroidManifest.xml:7:5-9:41
-MERGED from [:library] D:\C\CompanyCode\Connect\azt\code\AZT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
-MERGED from [:library] D:\C\CompanyCode\Connect\azt\code\AZT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
-MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:autolayout] D:\C\CompanyCode\Connect\azt\code\AZT\autolayout\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
-MERGED from [:autolayout] D:\C\CompanyCode\Connect\azt\code\AZT\autolayout\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:library] D:\C\CompanyCode\Connect\azt\AZT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:library] D:\C\CompanyCode\Connect\azt\AZT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:autolayout] D:\C\CompanyCode\Connect\azt\AZT\autolayout\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:autolayout] D:\C\CompanyCode\Connect\azt\AZT\autolayout\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.chihane:JDAddressSelector:1.1.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\JDAddressSelector-1.1.4.aar\a21976f4673e3fe52f3778cbdd790ef0\AndroidManifest.xml:7:5-9:41
@@ -179,154 +179,154 @@ MERGED from [com.mikepenz:iconics-core:2.7.2] C:\Users\dell\.gradle\caches\trans
 MERGED from [com.mikepenz:iconics-core:2.7.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\iconics-core-2.7.2.aar\19c6590f9d0e0364ef4d90780ed89a4f\AndroidManifest.xml:8:5-10:41
 MERGED from [com.mikepenz:fastadapter:1.6.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fastadapter-1.6.1.aar\1dd24dd4d683e3716182a5522db31e65\AndroidManifest.xml:8:5-10:41
 MERGED from [com.mikepenz:fastadapter:1.6.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\fastadapter-1.6.1.aar\1dd24dd4d683e3716182a5522db31e65\AndroidManifest.xml:8:5-10:41
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
-INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:7:5-44
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\9abaf7067e3b6ddffbe50f766b8b1d17\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:5-44
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:7:15-41
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
-		INJECTED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:9:5-75
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:9:22-72
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:9:22-72
 uses-permission#android.permission.INTERNET
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:10:5-67
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:10:22-64
 uses-permission#android.permission.CAMERA
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:11:5-65
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:11:5-65
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:11:5-65
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:11:22-62
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:11:22-62
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:12:5-14:47
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:12:5-14:47
 	tools:ignore
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:14:9-44
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:14:9-44
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:13:9-68
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:13:9-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:15:5-81
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:15:5-81
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:9:5-81
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:15:22-78
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:17:5-76
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:17:5-76
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:17:22-73
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:17:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:18:5-76
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:18:5-76
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:18:22-73
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:18:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:19:5-68
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:19:5-68
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:19:22-65
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:19:22-65
 uses-permission#android.permission.NFC
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:20:5-62
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:20:5-62
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:20:22-59
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:20:22-59
 uses-feature#android.hardware.nfc.hce
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:22:5-61
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:22:5-61
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:22:19-58
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:22:19-58
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:24:5-71
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:24:5-71
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:24:22-68
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:24:22-68
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:25:5-80
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:25:5-80
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:25:22-77
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:25:22-77
 uses-permission#org.simalliance.openmobileapi.SMARTCARD
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:26:5-79
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:26:22-76
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:26:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:27:5-80
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:27:5-80
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:10:5-80
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:10:5-80
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:27:22-77
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:27:22-77
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:28:5-79
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:28:5-79
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:28:22-76
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:28:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:31:5-81
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:31:5-81
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:31:22-78
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:31:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:33:5-79
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:33:5-79
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:33:22-76
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:33:22-76
 uses-permission#com.android.launcher.permission.READ_SETTINGS
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:56:5-85
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:56:5-85
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:56:22-82
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:56:22-82
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:62:5-64:47
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:62:5-64:47
 	tools:ignore
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:64:9-44
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:64:9-44
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:63:9-57
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:63:9-57
 uses-permission#android.permission.CALL_PHONE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:71:5-69
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:71:5-69
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:71:22-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:71:22-66
 uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:80:5-83
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:80:5-83
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:80:22-80
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:80:22-80
 permission#com.azhyun.massxj.permission.JPUSH_MESSAGE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:83:5-85:47
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:84:5-86:47
 	android:protectionLevel
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:85:9-44
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:86:9-44
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:84:9-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:85:9-66
 uses-permission#com.azhyun.mass.permission.JPUSH_MESSAGE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:88:5-80
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:89:5-80
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:88:22-77
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:89:22-77
 uses-permission#android.permission.RECEIVE_USER_PRESENT
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:89:5-79
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:90:5-79
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:89:22-76
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:90:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:98:5-66
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:99:5-66
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:98:22-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:99:22-63
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:106:5-78
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:107:5-78
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:106:22-75
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:107:22-75
 uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:110:5-89
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:111:5-89
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:110:22-86
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:111:22-86
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:111:5-79
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:112:5-79
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:111:22-76
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:112:22-76
 uses-permission#android.permission.GET_TASKS
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:112:5-68
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:113:5-68
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:112:22-65
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:113:22-65
 application
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:123:5-459:19
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:124:5-460:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eeb452e3b9cd3e24d5f577e22788724\AndroidManifest.xml:9:5-20
 MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\AndroidManifest.xml:11:5-14:19
 MERGED from [com.jzxiang.pickerview:TimePickerDialog:1.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\TimePickerDialog-1.0.0.aar\8188b2d470e30eda24205e9de72b74fd\AndroidManifest.xml:11:5-14:19
-MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
-MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\code\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:xrecyclerview] D:\C\CompanyCode\Connect\azt\AZT\xrecyclerview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
 MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.dongjunkun:DropDownMenu:1.0.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\DropDownMenu-1.0.3.aar\c2f097c9c9644ed261933982d3213407\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.chihane:JDAddressSelector:1.1.4] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\JDAddressSelector-1.1.4.aar\a21976f4673e3fe52f3778cbdd790ef0\AndroidManifest.xml:11:5-14:19
@@ -390,661 +390,661 @@ MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta6] C:\Users\dell\.gradl
 MERGED from [com.github.chihane:AndroidUtils:1.0.10] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\AndroidUtils-1.0.10.aar\fc39d0ae3a00037bfeb472bfa523e58a\AndroidManifest.xml:11:5-14:19
 MERGED from [com.github.chihane:AndroidUtils:1.0.10] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\AndroidUtils-1.0.10.aar\fc39d0ae3a00037bfeb472bfa523e58a\AndroidManifest.xml:11:5-14:19
 	android:supportsRtl
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:129:9-35
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:130:9-35
 	android:label
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:127:9-41
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:128:9-41
 	android:resizeableActivity
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:128:9-42
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:129:9-42
 	android:icon
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:126:9-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:127:9-37
 		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\6c305b1d11e85766ebd4649f59d31f93\AndroidManifest.xml:13:9-45
 	android:allowBackup
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:125:9-35
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:126:9-35
 	android:theme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:130:9-40
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:131:9-40
 	tools:replace
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:131:9-52
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:132:9-52
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:124:9-38
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:125:9-38
 activity#com.azhyun.massxj.activity.SplashActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:132:9-140:20
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:133:9-141:20
 	android:launchMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:134:13-44
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:135:13-44
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:133:13-52
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:134:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:135:13-139:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:136:13-140:29
 action#android.intent.action.MAIN
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:136:17-69
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:137:17-69
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:136:25-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:137:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:138:17-77
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:139:17-77
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:138:27-74
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:139:27-74
 activity#com.azhyun.massxj.activity.MainActivity2
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:141:9-155:20
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:142:9-156:20
 	android:launchMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:143:13-44
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:144:13-44
 	android:windowSoftInputMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:144:13-52
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:145:13-52
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:142:13-51
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:143:13-51
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:145:13-154:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:146:13-155:29
 action#android.intent.action.VIEW
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:146:17-69
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:147:17-69
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:146:25-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:147:25-66
 category#android.intent.category.DEFAULT
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:148:17-76
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:149:17-76
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:148:27-73
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:149:27-73
 category#android.intent.category.BROWSABLE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:149:17-78
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:150:17-78
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:149:27-75
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:150:27-75
 data
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:151:17-153:56
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:152:17-154:56
 	android:host
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:152:21-43
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:153:21-43
 	android:scheme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:153:21-53
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:154:21-53
 activity#com.azhyun.massxj.activity.PublishedActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:156:9-158:47
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:157:9-159:47
 	android:launchMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:158:13-44
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:159:13-44
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:157:13-55
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:158:13-55
 activity#com.azhyun.massxj.activity.UserLogingActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:159:9-65
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:160:9-65
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:159:19-62
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:160:19-62
 activity#com.azhyun.massxj.activity.FarmingServiceActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:160:9-69
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:161:9-69
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:160:19-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:161:19-66
 activity#com.azhyun.massxj.activity.SupplyLobbyActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:161:9-66
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:162:9-66
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:161:19-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:162:19-63
 activity#com.azhyun.massxj.activity.ReleaseTheSupplyActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:162:9-71
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:163:9-71
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:162:19-68
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:163:19-68
 activity#com.azhyun.massxj.activity.ReleaseForActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:163:9-65
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:164:9-65
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:163:19-62
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:164:19-62
 activity#com.azhyun.massxj.activity.ReleaseTheSupplyPubackActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:164:9-77
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:165:9-77
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:164:19-74
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:165:19-74
 activity#com.azhyun.massxj.activity.MyTrusteeshipActivity2
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:165:9-69
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:166:9-69
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:165:19-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:166:19-66
 activity#com.azhyun.massxj.activity.UserInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:166:9-63
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:167:9-63
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:166:19-60
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:167:19-60
 activity#com.azhyun.massxj.activity.ServiceOrderActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:167:9-67
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:168:9-67
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:167:19-64
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:168:19-64
 activity#com.azhyun.massxj.activity.OrderInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:168:9-64
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:169:9-64
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:168:19-61
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:169:19-61
 activity#com.azhyun.massxj.activity.OrderInfoActivity2
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:169:9-65
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:170:9-65
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:169:19-62
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:170:19-62
 activity#com.azhyun.massxj.activity.AddCommentActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:170:9-65
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:171:9-65
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:170:19-62
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:171:19-62
 activity#com.azhyun.massxj.activity.MineAuditActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:171:9-64
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:172:9-64
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:171:19-61
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:172:19-61
 activity#com.azhyun.massxj.activity.ApplyForInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:172:9-67
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:173:9-67
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:172:19-64
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:173:19-64
 activity#com.azhyun.massxj.activity.ApplyForResultActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:173:9-69
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:174:9-69
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:173:19-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:174:19-66
 activity#com.azhyun.massxj.activity.UploadImageActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:174:9-66
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:175:9-66
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:174:19-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:175:19-63
 activity#com.azhyun.massxj.activity.AgentInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:175:9-64
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:176:9-64
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:175:19-61
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:176:19-61
 activity#com.azhyun.massxj.activity.SubmitSucceedActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:176:9-68
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:177:9-68
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:176:19-65
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:177:19-65
 activity#com.azhyun.massxj.activity.FarmingServiceInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:177:9-73
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:178:9-73
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:177:19-70
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:178:19-70
 activity#com.azhyun.massxj.activity.FarmingServiceOrderActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:178:9-74
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:179:9-74
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:178:19-71
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:179:19-71
 activity#com.azhyun.massxj.activity.SupplyInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:179:9-65
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:180:9-65
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:179:19-62
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:180:19-62
 activity#com.azhyun.massxj.activity.BuyInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:180:9-62
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:181:9-62
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:180:19-59
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:181:19-59
 activity#com.azhyun.massxj.activity.UserInfoAlterActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:181:9-68
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:182:9-68
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:181:19-65
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:182:19-65
 activity#com.azhyun.massxj.activity.MineSupplyDemandActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:182:9-71
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:183:9-71
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:182:19-68
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:183:19-68
 activity#com.azhyun.massxj.activity.MineSupplyInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:183:9-69
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:184:9-69
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:183:19-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:184:19-66
 activity#com.azhyun.massxj.activity.MineBuyInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:184:9-66
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:185:9-66
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:184:19-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:185:19-63
 activity#com.azhyun.massxj.activity.MyLandHostingActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:185:9-68
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:186:9-68
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:185:19-65
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:186:19-65
 activity#com.azhyun.massxj.activity.MyAgentInfoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:186:9-66
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:187:9-66
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:186:19-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:187:19-63
 activity#com.azhyun.massxj.activity.MianMessageActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:187:9-66
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:188:9-66
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:187:19-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:188:19-63
 activity#com.azhyun.massxj.activity.MyImagesActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:188:9-63
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:189:9-63
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:188:19-60
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:189:19-60
 activity#com.azhyun.massxj.activity.UserInfoPhoneAlterActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:189:9-73
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:190:9-73
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:189:19-70
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:190:19-70
 activity#com.azhyun.massxj.activity.PhoneAlterVerifyAcitvity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:190:9-71
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:191:9-71
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:190:19-68
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:191:19-68
 activity#com.azhyun.massxj.activity.SelectApproverAcitivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:191:9-70
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:192:9-70
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:191:19-67
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:192:19-67
 activity#com.azhyun.massxj.x5webview.TencentBrowserActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:192:9-70
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:193:9-70
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:192:19-67
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:193:19-67
 meta-data#design_width
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:194:9-196:35
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:195:9-197:35
 	android:value
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:196:13-32
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:197:13-32
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:195:13-40
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:196:13-40
 meta-data#design_height
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:197:9-199:36
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:198:9-200:36
 	android:value
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:199:13-33
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:200:13-33
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:198:13-41
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:199:13-41
 meta-data#android.max_aspect
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:200:9-202:35
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:201:9-203:35
 	android:value
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:202:13-32
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:203:13-32
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:201:13-46
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:202:13-46
 activity#me.iwf.photopicker.PhotoPickerActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:204:9-206:50
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:205:9-207:50
 	android:theme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:206:13-47
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:207:13-47
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:205:13-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:206:13-66
 activity#me.iwf.photopicker.PhotoPagerActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:207:9-209:66
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:208:9-210:66
 	android:theme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:209:13-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:210:13-63
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:208:13-65
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:209:13-65
 activity#com.azhyun.massxj.activity.MyParticipationActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:210:9-70
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:211:9-70
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:210:19-67
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:211:19-67
 activity#com.azhyun.massxj.activity.ManagementActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:211:9-65
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:212:9-65
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:211:19-62
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:212:19-62
 activity#com.azhyun.massxj.activity.ManagementDetailsActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:212:9-72
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:213:9-72
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:212:19-69
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:213:19-69
 meta-data#UMENG_APPKEY
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:215:9-217:56
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:216:9-218:56
 	android:value
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:217:13-53
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:218:13-53
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:216:13-40
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:217:13-40
 meta-data#UMENG_CHANNEL
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:218:9-220:37
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:219:9-221:37
 	android:value
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:220:13-34
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:221:13-34
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:219:13-41
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:220:13-41
 service#com.baidu.location.f
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:223:9-226:41
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:224:9-227:41
 	android:process
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:226:13-38
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:227:13-38
 	android:enabled
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:225:13-35
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:226:13-35
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:224:13-48
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:225:13-48
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:228:9-230:64
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:229:9-231:64
 	android:value
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:230:13-61
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:231:13-61
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:229:13-52
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:230:13-52
 activity#cn.jpush.android.ui.PopWinActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:233:9-236:52
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:234:9-237:52
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:235:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:236:13-37
 	android:theme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:236:13-49
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:237:13-49
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:234:13-62
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:235:13-62
 activity#cn.jpush.android.ui.PushActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:240:9-251:20
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:241:9-252:20
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:243:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:244:13-37
 	android:configChanges
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:242:13-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:243:13-63
 	android:theme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:244:13-60
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:245:13-60
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:241:13-60
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:242:13-60
 intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.azhyun.mass
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:245:13-250:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:246:13-251:29
 action#cn.jpush.android.ui.PushActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:246:17-75
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:247:17-75
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:246:25-72
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:247:25-72
 category#com.azhyun.mass
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:249:17-60
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:250:17-60
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:249:27-57
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:250:27-57
 service#cn.jpush.android.service.PushService
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:255:9-265:19
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:256:9-266:19
 	android:process
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:258:13-36
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:259:13-36
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:257:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:258:13-37
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:256:13-64
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:257:13-64
 intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:259:13-264:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:260:13-265:29
 action#cn.jpush.android.intent.REGISTER
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:260:17-75
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:261:17-75
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:260:25-72
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:261:25-72
 action#cn.jpush.android.intent.REPORT
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:261:17-73
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:262:17-73
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:261:25-70
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:262:25-70
 action#cn.jpush.android.intent.PushService
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:262:17-78
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:263:17-78
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:262:25-75
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:263:25-75
 action#cn.jpush.android.intent.PUSH_TIME
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:263:17-76
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:264:17-76
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:263:25-73
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:264:25-73
 provider#cn.jpush.android.service.DataProvider
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:267:9-270:40
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:268:9-271:40
 	android:authorities
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:269:13-65
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:270:13-65
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:270:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:271:13-37
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:268:13-65
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:269:13-65
 service#cn.jpush.android.service.DaemonService
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:273:9-282:19
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:274:9-283:19
 	android:enabled
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:275:13-35
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:276:13-35
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:276:13-36
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:277:13-36
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:274:13-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:275:13-66
 intent-filter#cn.jpush.android.intent.DaemonService+com.azhyun.mass
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:277:13-281:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:278:13-282:29
 action#cn.jpush.android.intent.DaemonService
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:278:17-80
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:279:17-80
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:278:25-77
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:279:25-77
 provider#cn.jpush.android.service.DownloadProvider
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:284:9-287:39
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:285:9-288:39
 	android:authorities
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:286:13-69
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:287:13-69
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:287:13-36
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:288:13-36
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:285:13-69
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:286:13-69
 receiver#cn.jpush.android.service.PushReceiver
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:289:9-308:20
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:290:9-309:20
 	android:enabled
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:291:13-35
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:292:13-35
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:292:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:293:13-37
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:290:13-65
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:291:13-65
 intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.azhyun.mass
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:293:13-296:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:294:13-297:29
 	android:priority
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:293:28-51
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:294:28-51
 action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:294:17-94
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:295:17-94
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:294:25-91
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:295:25-91
 intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:297:13-300:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:298:13-301:29
 action#android.intent.action.USER_PRESENT
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:298:17-77
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:299:17-77
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:298:25-74
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:299:25-74
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:299:17-79
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:300:17-79
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:299:25-76
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:300:25-76
 intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:302:13-307:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:303:13-308:29
 action#android.intent.action.PACKAGE_ADDED
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:303:17-78
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:304:17-78
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:303:25-75
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:304:25-75
 action#android.intent.action.PACKAGE_REMOVED
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:304:17-80
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:305:17-80
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:304:25-77
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:305:25-77
 receiver#cn.jpush.android.service.AlarmReceiver
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:311:9-313:40
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:312:9-314:40
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:313:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:314:13-37
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:312:13-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:313:13-66
 receiver#com.azhyun.massxj.jpush.MyReceiver
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:316:9-328:20
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:317:9-329:20
 	android:enabled
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:318:13-35
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:319:13-35
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:319:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:320:13-37
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:317:13-45
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:318:13-45
 intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.azhyun.mass
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:320:13-327:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:321:13-328:29
 action#cn.jpush.android.intent.REGISTRATION
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:321:17-79
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:322:17-79
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:321:25-76
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:322:25-76
 action#cn.jpush.android.intent.MESSAGE_RECEIVED
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:322:17-83
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:323:17-83
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:322:25-80
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:323:25-80
 action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:323:17-88
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:324:17-88
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:323:25-85
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:324:25-85
 action#cn.jpush.android.intent.NOTIFICATION_OPENED
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:324:17-86
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:325:17-86
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:324:25-83
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:325:25-83
 action#cn.jpush.android.intent.CONNECTION
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:325:17-77
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:326:17-77
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:325:25-74
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:326:25-74
 meta-data#JPUSH_CHANNEL
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:338:9-340:49
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:339:9-341:49
 	android:value
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:340:13-46
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:341:13-46
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:339:13-41
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:340:13-41
 meta-data#JPUSH_APPKEY
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:341:9-343:56
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:342:9-344:56
 	android:value
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:343:13-53
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:344:13-53
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:342:13-40
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:343:13-40
 activity#com.umeng.socialize.media.WBShareCallBackActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:347:9-351:75
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:348:9-352:75
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:350:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:351:13-37
 	android:configChanges
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:349:13-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:350:13-63
 	android:theme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:351:13-72
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:352:13-72
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:348:13-77
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:349:13-77
 activity#com.sina.weibo.sdk.web.WeiboSdkWebActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:352:9-356:58
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:353:9-357:58
 	android:windowSoftInputMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:356:13-55
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:357:13-55
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:355:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:356:13-37
 	android:configChanges
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:354:13-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:355:13-63
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:353:13-70
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:354:13-70
 activity#com.sina.weibo.sdk.share.WbShareTransActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:357:9-366:20
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:358:9-367:20
 	android:launchMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:359:13-44
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:360:13-44
 	android:theme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:360:13-83
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:361:13-83
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:358:13-73
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:359:13-73
 intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:361:13-365:29
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:362:13-366:29
 action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:362:17-92
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:363:17-92
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:362:25-89
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:363:25-89
 uses-library#org.simalliance.openmobileapi
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:369:9-371:40
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:370:9-372:40
 	android:required
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:371:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:372:13-37
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:370:13-57
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:371:13-57
 activity#com.unionpay.uppay.PayActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:373:9-379:58
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:374:9-380:58
 	android:screenOrientation
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:378:13-49
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:379:13-49
 	android:label
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:377:13-45
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:378:13-45
 	android:excludeFromRecents
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:376:13-46
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:377:13-46
 	android:windowSoftInputMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:379:13-55
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:380:13-55
 	android:configChanges
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:375:13-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:376:13-63
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:374:13-58
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:375:13-58
 activity#com.unionpay.UPPayWapActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:380:9-384:58
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:381:9-385:58
 	android:screenOrientation
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:383:13-49
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:384:13-49
 	android:windowSoftInputMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:384:13-55
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:385:13-55
 	android:configChanges
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:382:13-63
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:383:13-63
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:381:13-57
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:382:13-57
 activity#com.azhyun.massxj.wxapi.WXPayEntryActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:386:9-390:52
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:387:9-391:52
 	android:screenOrientation
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:390:13-49
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:391:13-49
 	android:launchMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:389:13-43
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:390:13-43
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:388:13-36
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:389:13-36
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:387:13-53
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:388:13-53
 activity#com.azhyun.massxj.wxapi.WXEntryActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:395:9-401:75
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:396:9-402:75
 	android:label
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:398:13-45
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:399:13-45
 	android:launchMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:399:13-44
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:400:13-44
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:397:13-36
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:398:13-36
 	android:theme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:401:13-72
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:402:13-72
 	android:taskAffinity
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:400:13-51
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:401:13-51
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:396:13-50
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:397:13-50
 activity#com.tencent.tauth.AuthActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:404:9-416:20
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:405:9-417:20
 	android:launchMode
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:406:13-44
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:407:13-44
 	android:noHistory
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:407:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:408:13-37
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:405:13-58
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:406:13-58
 activity#com.tencent.connect.common.AssistActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:417:9-420:75
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:418:9-421:75
 	android:configChanges
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:419:13-74
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:420:13-74
 	android:theme
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:420:13-72
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:421:13-72
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:418:13-69
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:419:13-69
 provider#android.support.v4.content.FileProvider
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:423:9-432:20
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:424:9-433:20
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:14:9-22:20
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:14:9-22:20
 	android:grantUriPermissions
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:427:13-47
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:428:13-47
 	android:authorities
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:425:13-61
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:426:13-61
 	android:exported
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:426:13-37
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:427:13-37
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:424:13-67
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:425:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:428:13-431:52
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:429:13-432:52
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:19:13-21:67
 MERGED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:19:13-21:67
 	android:resource
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:430:17-51
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:431:17-51
 		REJECTED from [me.iwf.photopicker:PhotoPicker:0.9.5] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\PhotoPicker-0.9.5.aar\641ab9ce1a70e20e54b112b3748d752e\AndroidManifest.xml:21:17-64
 	tools:replace
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:431:17-49
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:432:17-49
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:429:17-67
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:430:17-67
 service#com.azhyun.massxj.utils.update.UpdateAppService
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:434:9-436:38
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:435:9-437:38
 	android:enabled
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:436:13-35
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:437:13-35
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:435:13-58
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:436:13-58
 activity#com.azhyun.massxj.activity.azt.AgriculturalMaterialsMallActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:438:9-84
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:439:9-84
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:438:19-81
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:439:19-81
 activity#com.azhyun.massxj.activity.azt.OrderActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:439:9-64
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:440:9-64
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:439:19-61
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:440:19-61
 activity#com.azhyun.massxj.activity.azt.CommodityDetailsActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:440:9-75
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:441:9-75
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:440:19-72
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:441:19-72
 activity#com.azhyun.massxj.activity.azt.CaiGouOrderDetailsActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:441:9-77
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:442:9-77
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:441:19-74
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:442:19-74
 activity#com.azhyun.massxj.activity.azt.caigou.CaiGouCommodityDetailsActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:442:9-88
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:443:9-88
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:442:19-85
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:443:19-85
 activity#com.azhyun.massxj.activity.azt.SubmitOrderActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:443:9-70
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:444:9-70
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:443:19-67
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:444:19-67
 activity#com.azhyun.massxj.activity.azt.caigou.CaiGouSubmitOrderActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:444:9-83
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:445:9-83
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:444:19-80
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:445:19-80
 activity#com.azhyun.massxj.activity.azt.OrderDetailsActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:445:9-71
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:446:9-71
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:445:19-68
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:446:19-68
 activity#com.azhyun.massxj.activity.azt.ProductInfoImagesActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:446:9-76
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:447:9-76
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:446:19-73
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:447:19-73
 activity#com.azhyun.massxj.activity.azt.NewFieldActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:447:9-67
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:448:9-67
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:447:19-64
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:448:19-64
 activity#com.azhyun.massxj.activity.azt.MainActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:448:9-63
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:449:9-63
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:448:19-60
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:449:19-60
 activity#com.azhyun.massxj.activity.azt.OrderPayActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:449:9-67
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:450:9-67
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:449:19-64
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:450:19-64
 activity#com.azhyun.massxj.activity.azt.locailtyactivity.LocalityLiveActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:450:9-88
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:451:9-88
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:450:19-85
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:451:19-85
 activity#com.azhyun.massxj.activity.azt.farmingInsurance.FarmingInsuranceDetailsActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:451:9-99
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:452:9-99
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:451:19-96
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:452:19-96
 activity#com.azhyun.massxj.activity.azt.farmingInsurance.NxReserveActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:452:9-85
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:453:9-85
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:452:19-82
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:453:19-82
 activity#com.azhyun.massxj.activity.azt.farmingInsurance.NxTxOrderActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:453:9-85
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:454:9-85
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:453:19-82
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:454:19-82
 activity#com.azhyun.massxj.activity.azt.NbOrderDetailsActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:454:9-73
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:455:9-73
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:454:19-70
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:455:19-70
 activity#com.azhyun.massxj.activity.azt.MyIntegralActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:455:9-69
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:456:9-69
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:455:19-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:456:19-66
 activity#com.azhyun.massxj.activity.azt.GongYingXqActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:456:9-69
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:457:9-69
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:456:19-66
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:457:19-66
 activity#com.azhyun.massxj.activity.azt.CaiPurchaseActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:457:9-70
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:458:9-70
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:457:19-67
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:458:19-67
 activity#com.azhyun.massxj.activity.azt.caigou.CaiGouDingDanLieBiaoActivity
-ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:458:9-95
+ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:459:9-95
 	android:name
-		ADDED from D:\C\CompanyCode\Connect\azt\code\AZT\app\src\main\AndroidManifest.xml:458:19-83
+		ADDED from D:\C\CompanyCode\Connect\azt\AZT\app\src\main\AndroidManifest.xml:459:19-83
 meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
 ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-1.4.0.aar\9247af33920405ea3dc0906c9e2d6486\AndroidManifest.xml:12:9-14:43
 	android:value

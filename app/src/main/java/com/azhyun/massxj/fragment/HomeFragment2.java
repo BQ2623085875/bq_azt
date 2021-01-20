@@ -172,6 +172,8 @@ public class HomeFragment2 extends LazyLoadFragment implements View.OnClickListe
     private boolean tuijian2 = false;
     private boolean tuijian3 = false;
 
+    private int exing = 0;
+
 
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
@@ -206,13 +208,13 @@ public class HomeFragment2 extends LazyLoadFragment implements View.OnClickListe
         home_nb_zx.setOnClickListener(this);
 
         /*
-        * 获取版本号
-        * */
+         * 获取版本号
+         * */
         String ANDROID_ID = Settings.System.getString(getActivity().getContentResolver(), Settings.System.ANDROID_ID);
 //        getVersion(ANDROID_ID);
 
         mswipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
-             @Override
+            @Override
             public void onRefresh() {
                 getData();//首页信息
                 mswipeRefreshLayout.setRefreshing(false);
@@ -245,7 +247,8 @@ public class HomeFragment2 extends LazyLoadFragment implements View.OnClickListe
                 } else {
                     intent = new Intent(getContext(), UserLogingActivity.class);
                     startActivity(intent);
-                }                break;
+                }
+                break;
             case R.id.home_combo://我的售后服务
                 ToastUtils.showToast(getContext(), "暂未开通");
                 break;
@@ -523,11 +526,12 @@ public class HomeFragment2 extends LazyLoadFragment implements View.OnClickListe
         if (item.size() == 0) {
             tuijianll.setVisibility(ViewGroup.GONE);
         } else {
-            tuijianll.setVisibility(ViewGroup.VISIBLE);
             //推荐商品（1）
             if (item.size() > 1) {
                 HomeDataResult.DataBeanX.ItemBean itemBean0 = item.get(0);
-                Glide.with(getContext()).load(Constant.IMG_URL + itemBean0.getDefaultImg()).into(imgSow);
+                if (imgSow!=null) {
+                    Glide.with(getContext()).load(Constant.IMG_URL + itemBean0.getDefaultImg()).into(imgSow);
+                }
                 tvSowName.setText("【" + itemBean0.getBrand() + "】" + itemBean0.getOnlineTitle());
                 CommId1 = itemBean0.getId();
                 if (itemBean0.getPrice() > 0) {
@@ -566,6 +570,8 @@ public class HomeFragment2 extends LazyLoadFragment implements View.OnClickListe
                     tuijian3 = false;
                 }
             }
+
+            tuijianll.setVisibility(ViewGroup.VISIBLE);
 
         }
 
@@ -795,9 +801,9 @@ public class HomeFragment2 extends LazyLoadFragment implements View.OnClickListe
             Const.LONGITUDE = location.getLongitude();
             Const.LATITUDE = location.getLatitude();
             district = location.getDistrict();
-            if (district!=null) {
+            if (district != null) {
                 titleAddress.setText(district);
-            }else {
+            } else {
                 titleAddress.setText("暂无定位");
             }
 //        Const.ADDRESS = location.getAddrStr();

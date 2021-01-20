@@ -66,8 +66,8 @@ import rx.functions.Action1;
 import static com.azhyun.massxj.utils.LoadingDialog.cancel;
 
 /*
-* 供应详情
-* */
+ * 供应详情
+ * */
 public class GongYingXqActivity extends BaseActivity {
     protected final String TAG = "GongYingXqActivity";
 
@@ -426,7 +426,11 @@ public class GongYingXqActivity extends BaseActivity {
                     startActivity(intent);
                 } else {
                     if (!userid.equals(userId)) {
-                        showLodgo();
+                        if (supplyInfo != null) {
+                            showLodgo();
+                        } else {
+                            ToastUtils.showToast(GongYingXqActivity.this,"网络有误请重新加载");
+                        }
                     }
                 }
                 break;
@@ -448,7 +452,10 @@ public class GongYingXqActivity extends BaseActivity {
         } else {
             tm.setText(demandInfo.getPhone());
         }
-        Glide.with(GongYingXqActivity.this).load(Constant.IMG_URL + supplyInfo.getHeadImg()).crossFade().placeholder(R.drawable.me_hard_danwei).error(R.drawable.me_hard_danwei).into(img);
+        String headImg = supplyInfo.getHeadImg();
+        if (headImg != null) {
+            Glide.with(GongYingXqActivity.this).load(Constant.IMG_URL + headImg).crossFade().placeholder(R.drawable.me_hard_danwei).error(R.drawable.me_hard_danwei).into(img);
+        }
         builder.setView(layout);
 
         final AlertDialog dialog = builder.create();

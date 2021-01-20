@@ -73,17 +73,16 @@ public class NbOrderAdapter extends RecyclerView.Adapter<NbOrderAdapter.Holder> 
         //服务商
         holder.orsder_item_nuitname.setText(rowsBean.getSaleName());
         //合计
-        holder.orsder_item_heji.setText("¥" + new DecimalFormat("#0.00").format(rowsBean.getAmount()));
-
+        holder.orsder_item_heji.setText("¥" + new DecimalFormat("#0.00").format(rowsBean.getItemQty()));
         Glide.with(mContext).load(Constant.IMG_URL + insuranceItem.getImg())
                 .placeholder(R.drawable.me_hard_danwei)
                 .error(R.drawable.me_hard_danwei)
                 .into(holder.new_nb_img);
         holder.new_nb_name.setText(insuranceItem.getName());
         holder.new_nb_price.setText("¥" + new DecimalFormat("#0.00").format(insuranceItem.getPrice()));
-        holder.new_nb_jine.setText(insuranceItem.getAmount());
-        holder.new_nb_zeren.setText(insuranceItem.getResponsibility());
-        holder.new_nb_mushu.setText(rowsBean.getItemQty() + "");
+        holder.new_nb_jine.setText("保险金额: 每亩"+insuranceItem.getAmount()+"元");
+        holder.new_nb_zeren.setText("保险责任: "+insuranceItem.getResponsibility());
+        holder.new_nb_mushu.setText("x"+rowsBean.getAmount()+ "亩");//
 
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override

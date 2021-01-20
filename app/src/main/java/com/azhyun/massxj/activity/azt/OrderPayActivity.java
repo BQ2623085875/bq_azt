@@ -24,6 +24,7 @@ import com.tencent.mm.opensdk.openapi.IWXAPI;
 import com.tencent.mm.opensdk.openapi.WXAPIFactory;
 import com.unionpay.UPPayAssistEx;
 
+
 import butterknife.BindView;
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -89,7 +90,6 @@ public class OrderPayActivity extends BaseActivity {
 
 
     }
-
 
 
     @Override
@@ -225,10 +225,9 @@ public class OrderPayActivity extends BaseActivity {
                     UnpayZfBean.ResultData data = body.getData();
                     // “00” – 银联正式环境
                     // “01” – 银联测试环境，该环境中不发生真实交易
-
                     String tn = data.getTn();
                     String serverMode = "00";
-                    UPPayAssistEx.startPay(OrderPayActivity.this, null, null, data.getTn(), serverMode);
+                    UPPayAssistEx.startPay(OrderPayActivity.this, null, null, tn, serverMode);
                 }
             }
 

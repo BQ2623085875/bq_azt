@@ -151,12 +151,14 @@ public class NbOrderDetailsActivity extends BaseActivity {
                         nb_order_xiadan_tiem.setText(data.getAddedTime());
                         nb_order_price.setText("¥" + new DecimalFormat("#0.00").format(data.getInsuranceItem().getPrice()));
                         nb_order_mushu.setText(data.getInsuranceBookingVo().getMu() + "亩");
-                        nb_order_heji.setText("¥" + new DecimalFormat("#0.00").format(data.getAmount()));
-                        if (data.getInsuranceBookingVo().getCurrency() == 0) {
+                        nb_order_heji.setText("¥" + new DecimalFormat("#0.00").format(Double.parseDouble(data.getInsuranceBookingVo().getCurrency())-data.getAmount()));
+                        if (data.getInsuranceBookingVo().getCurrency().equals("0")) {
                             nb_order_nongyuzhi.setText("- ¥0.00");
                         } else {
-                            int currency = data.getInsuranceBookingVo().getCurrency() / 10;
-                            nb_order_nongyuzhi.setText("- ¥" + currency + ".00");
+//                            int integer = Integer.parseInt(data.getInsuranceBookingVo().getCurrency());
+                            double v = Double.parseDouble(data.getInsuranceBookingVo().getCurrency());
+//                            double currency = v/ 10;
+                            nb_order_nongyuzhi.setText("- ¥" + data.getInsuranceBookingVo().getCurrency());
                         }
 
                         if (type == 1) {//待处理
